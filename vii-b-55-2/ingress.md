@@ -1,0 +1,5 @@
+# Interkantonale Vereinbarung zwischen den Kantonen Glarus, Schwyz, St. Gallen und Zürich über das Linthwerk
+Vom 23.10.2000
+Verabschiedung der Vereinbarung durch die Eidg. Linthverwaltung
+In Erinnerung, dass die Eidgenössische Tagsatzung am 28. Juli 1804 die Entsumpfung der Linthebene durch Überleitung der Linth in den Walensee und eine Verbesserung von dessen Abfluss Richtung Zürichsee beschloss und in der Revision dieses Beschlusses am 30. Juni 1808 festlegte, dass zwischen Walensee und Zürichsee ein möglichst gerader Kanal anzulegen sei, dass am 6. Juli 1812 die Tagsatzung die Linthwasserbau-Polizeikommission schuf, deren Aufgabe die Aufsicht und Erhaltung aller Kanalanlagen war, dass mit Bundesbeschluss vom 27. Januar 1862 betreffend die Reorganisation der Linthverwaltung diese Funktionen der Linthkommission übertragen wurden, die im Bundesgesetz betreffend den Unterhalt des Linthwerks vom 6. Dezember 1867 die Rechtsgrundlage fand, in der Absicht, für den gemeinsamen Hochwasserschutz in der Linthebene eine neue interkantonale Grundlage zu schaffen,
+treffen die Regierungen der Kantone Glarus, Schwyz, St. Gallen und Zürich folgende Vereinbarung:
