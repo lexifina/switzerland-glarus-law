@@ -1,0 +1,2 @@
+## 1. Vertrag zwischen den Kantonen Aargau, Glarus, Zürich, Thurgau, Schaffhausen und Zug, im Nachstehenden die «Kantone» genannt, vertreten durch ihre Regierungen, und dem «Motor», Aktiengesellschaft für angewandte Elektrizität, in Baden (Aargau), im Nachstehenden «Motor» genannt.
+## 2. Vertrag zwischen den Kantonen Aargau, Glarus, Zürich, Thurgau, Schaffhausen und Zug betreffend Gründung der Gesellschaft der Nordostschweizerischen Kraftwerke A.-G.
