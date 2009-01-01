@@ -1,0 +1,2 @@
+# Art. 4a Anfechtbarkeit von Entscheiden über Zuwendungen aus den Lotterie- und Wettfonds
+1 Gegen Entscheide betreffend Zuwendungen aus den Lotterie- und Wettfonds im Sinne der Interkantonalen Vereinbarung über die Aufsicht sowie die Bewilligung und Ertragsverwendung von interkantonalen oder gesamtschweizerisch durchgeführten Lotterien und Wetten ist die Beschwerde an das kantonale Verwaltungsgericht ausgeschlossen; vorbehalten bleiben Entscheide betreffend die Rückforderung gewährter Zuwendungen.
