@@ -1,0 +1,2 @@
+# Art. 25a Übergangsbestimmung zum vierten Kapitel
+1 Der Anspruch auf Schadloshaltung gemäss Artikel 22a kann auch für vor dessen Inkrafttreten verursachte Haftungen von Amtsträgern geltend gemacht werden, jedoch nur, soweit die Anerkennung oder gerichtliche Feststellung der Schadenersatzpflicht nicht mehr als ein Jahr vor dem Inkrafttreten des vierten Kapitels erfolgt ist. Für die Geltendmachung gelangt Artikel 25 Absatz 2 sinngemäss zur Anwendung.
