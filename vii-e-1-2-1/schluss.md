@@ -1,0 +1,2 @@
+Anhänge
+Anhang 1: Daten der Klimastation Glarus Anhang 2: U-Wert-Grenzwerte bei Neubauten Anhang 3: U-Wert-Grenzwerte bei Umbauten und Umnutzungen Anhang 4: Grenzwerte für den Heizwärmebedarf pro Jahr von Neubauten, Umbauten und Umnutzungen (bei 8,5°C Jahresmitteltemperatur) Anhang 5: Minimale Dämmstärken gemäss Artikel 7 Absatz 3 bei Verteilleitungen der Heizung sowie bei Warmwasserleitungen Anhang 6: Minimale UR-Werte gemäss Artikel 7 Absatz 5 für erdverlegte Leitungen Anhang 7: Minimale Dämmstärken bei Luftkanälen, Rohren und Geräten von Lüftungs- und Klimaanlagen

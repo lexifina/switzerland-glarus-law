@@ -1,0 +1,2 @@
+# Art. 6a Wärmedämmung von lüftungstechnischen Anlagen
+1 Luftkanäle, Rohre und Geräte von Lüftungs- und Klimaanlagen müssen je nach Temperaturdifferenz im Auslegungsfall und λ-Wert des Dämmmaterials gemäss Anhang 5 gegen Wärmeübertragung (Wärmeverlust und Wärmeaufnahme) geschützt werden. In begründeten Fällen wie z. B. bei Kreuzungen, Wand- und Deckendurchbrüchen, wenig benutzten Leitungen mit Klappen im Bereich der thermischen Hülle sowie bei Platzproblemen bei Erneuerungen und Sanierungen können die Dämmstärken reduziert werden.
