@@ -1,0 +1,2 @@
+# Art. 74b Zuwendungen und andere Vorteile
+1 Den Ratsmitgliedern ist es untersagt, im Zusammenhang mit amtlichen Tätigkeiten oder im Hinblick auf solche für sich oder Dritte irgendwelche Zuwendungen wie Geschenke, Barbeträge und dergleichen anzunehmen, sich Vorteile zu verschaffen oder versprechen zu lassen. Davon ausgenommen sind Höflichkeitsgeschenke von geringem Wert. Widerrechtlich angenommene Zuwendungen und andere Vorteile verfallen dem Kanton.
