@@ -1,0 +1,4 @@
+# Art. 29e Disziplinarverfahren
+1 Der Inhaber der Disziplinargewalt sorgt für die Abklärung des Sachverhalts. Die betroffene Person erhält vor Erlass der schriftlichen Disziplinarverfügung Gelegenheit zur Stellungnahme. Bei zeitlicher Dringlichkeit wird der Entscheid mündlich eröffnet und sobald als möglich schriftlich bestätigt.
+2 Die Verfügung erfolgt aufgrund einer umfassenden Würdigung, insbesondere der objektiven Schwere der disziplinarischen Verfehlung, des bisherigen Verhaltens im Vollzug und der Beweggründe. Die Massnahme soll geeignet sein künftige Verstösse gegen die Anstaltsdisziplin zu verhindern. Das Verhängen von kollektiven Disziplinarmassnahmen ist unzulässig.
+3 Die von einer Disziplinarmassnahme betroffene Person kann gegen Disziplinarverfügungen innert 48 Stunden seit der Eröffnung entsprechend den Bestimmungen des Verwaltungsrechtspflegegesetzes Beschwerde erheben.

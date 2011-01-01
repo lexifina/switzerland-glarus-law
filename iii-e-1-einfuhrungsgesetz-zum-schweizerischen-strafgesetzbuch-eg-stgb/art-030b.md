@@ -1,0 +1,2 @@
+# Art. 30b Tragung anderer Kosten
+1 Kosten, die mit dem eigentlichen Straf- oder Massnahmenvollzug in keinem unmittelbaren, vollzugsbedingten Zusammenhang stehen und die der Kanton nicht aufgrund anderer Vorschriften zu tragen hat, wie Kosten der Spitalpflege, für Aufenthalte in speziellen Heil- oder Pflegeinstitutionen oder für notwendige zahnärztliche Behandlungen, sowie die Auslagen im Sinne von Artikel 14 des Konkordates der ostschweizerischen Kantone über den Vollzug von Strafen und Massnahmen, hat die betroffene Person selber zu tragen.
