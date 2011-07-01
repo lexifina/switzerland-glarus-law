@@ -1,0 +1,3 @@
+Datum des Inkrafttretens: 1. Januar 1990
+Dieser Erlass wurde nach der Landsgemeinde vom 3. Mai 1998 neu nummeriert; s. SBE 7. Bd. Heft 1 S. 33: Art. 2 (n), Art. 2–10 bisher zu 3–11, (3 Abs. 4, 5 [n]), (5 bisher zu 6), 11 bisher (+), 12 Abs. 2 (+), 4, 3 und 4 zu 2 und (3), 13 Abs. 1, (15 Abs. 1 und 3 [n]), 16 Abs. 1, 17 Abs. 1 (+), 19 Abs. 2, (20), [[(21 [n]),]] (21) und (22) bisher zu (22) und (23), (22), (Titel III. [n]), (23), (24 [n]),
+23–25 bisher zu (25), (26) und 27, 25, (28 [n]), (26–31 bisher zu 29–34), (31), 33 Abs. 5 (+), (34), 35 (n), (32) und 33 bisher zu (36) und 37, (37 Abs. 2 [n]), 38 (n), 34–37 bisher zu 39–42, 39, 40 Abs. 1 und (4 [n]) in Kraft ab 1. Januar 1999.
