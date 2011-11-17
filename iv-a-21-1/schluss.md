@@ -1,0 +1,1 @@
+Übergangsbestimmung zu dem an der Herbst-Synode 2011 beschlossenen Unterrichtskonzept: Einführung Schuljahr 2012/2013; gültig für in die 1. Klasse Eintretende; Unterrichtsbeginn Basisstufe im 3. Jahr.
