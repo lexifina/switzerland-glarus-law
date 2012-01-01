@@ -1,0 +1,5 @@
+# Art. 5a Schleppangelfischerei auf dem Klöntalersee
+1 Bei der Schleppangelfischerei mit dem Zusatzpatent «Motorkraft» und der Schleike sind je Boot höchstens zwei Seehunde oder höchstens fünf Rutenhunde mit insgesamt höchstens fünf Anbissstellen mit einfachen oder mehrendigen Angelhaken mit oder ohne Widerhaken erlaubt. Die Gerätschaften dürfen kombiniert werden.
+2 Bei der Schleppangelfischerei mit dem Zusatzpatent «Motorkraft» und von Hand geführten Ködern, mit Ruten, Tiefseeschleike und in der Wirkung vergleichbarer Geräte sind je Boot höchstens fünf Anbissstellen mit einfachen oder mehrendigen Angelhaken ohne Widerhaken erlaubt. Die Gerätschaften dürfen kombiniert werden.
+3 Bei der Schleppangelfischerei ohne das Zusatzpatent «Motorkraft» ist höchstens eine Rute mit einer Anbissstelle mit einfachem oder mehrendigen Angelhaken ohne Widerhaken erlaubt.
+4 Bei der Schleppangelfischerei ist das Boot mit einem weissen Ball zu kennzeichnen. Der Ball muss einen Durchmesser von mindestens 30 cm aufweisen und von allen Seiten her sichtbar sein.
