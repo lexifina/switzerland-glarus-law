@@ -1,0 +1,3 @@
+# Art. 11a Strafbestimmungen
+1 Wer nach Inanspruchnahme der Ermässigung gemäss Artikel 8a sein Fahrzeug so umbaut oder verändert, dass die Anspruchsvoraussetzungen nicht mehr gegeben sind, und es unterlässt, das Wegfallen der Anspruchsberechtigung der kantonalen Strassenverkehrsbehörde zu melden, hat neben der ordentlichen Steuer eine Busse im doppelten Umfang der Ermässigung zu bezahlen.
+2 Wer sein Fahrzeug so umbaut oder verändert, dass es zum Zeitpunkt der Veränderung maluspflichtig wäre, und es unterlässt, das Entstehen der Zahlungspflicht der kantonalen Strassenverkehrsbehörde zu melden, hat neben der ordentlichen Steuer eine Busse im doppelten Umfang des Malus zu bezahlen.
