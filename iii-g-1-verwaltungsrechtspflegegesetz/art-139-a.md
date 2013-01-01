@@ -1,0 +1,2 @@
+# Art. 139 a Nachzahlung
+1 Eine Partei, der die unentgeltliche Rechtspflege bewilligt wurde, ist zur Nachzahlung verpflichtet, sobald sie dazu in der Lage ist. Entsprechende Verfügungen erlässt diejenige Behörde, welche die unentgeltliche Rechtspflege bewilligt hat, für die Verwaltungsbehörden das vom Regierungsrat bezeichnete Departement. Die Verwaltungsbehörden des Kantons erteilen der zuständigen Instanz alle für die Rückforderung erforderlichen Auskünfte zu Einkommen und Vermögen der kostenpflichtigen Partei.
