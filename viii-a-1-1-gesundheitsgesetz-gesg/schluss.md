@@ -1,0 +1,1 @@
+Datum des Inkrafttretens: 1. Juli 2008; bereits per 1. Januar 2008 die Bestimmungen über die Patientenrechte (Art. 40–52); erst per 1. Januar 2011 die Bestimmungen über die Spitex (Art. 5 Bst. c, 19), bis zu diesem Datum bleiben die Artikel 31a–31c bisher in Kraft.
