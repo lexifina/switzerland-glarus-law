@@ -1,0 +1,3 @@
+# Art. 227a
+1 Der Anspruch auf Errichtung eines gesetzlichen Grundpfandrechtes auf den Liegenschaften der Pflichtigen durch Eintragung im Grundbuch besteht zugunsten des Kantons, der Gemeinden und der öffentlich-rechtlichen Korporationen für verfallene Beiträge an die Kosten der Erstellung, der Korrektion, des Unterhaltes und der Erweiterung von Strassen, Wegen, Bodenverbesserungen, Anlagen von Wassersammlern, Einrichtungen zur Ausnützung von Wasserkräften, Wuhrungen, Verbauungen, Entwässerungen und ähnlichen öffentlichen oder gemeinsamen Unternehmungen.
+2 Die Eintragung des Pfandrechtes muss spätestens vier Monate nach der Fälligkeit des Beitrages erfolgen.

@@ -1,0 +1,6 @@
+# Art. 15c
+1 Die Aufsicht über Stiftungen, die mehreren Gemeinden oder dem Kanton angehören sowie über Personalvorsorgeeinrichtungen wird vom zuständigen Departement wahrgenommen. Dieses ist auch zuständig für die Änderung von Zweck und Organisation sowie für die Aufhebung von Stiftungen. Es klagt auf Aufhebung einer Stiftung wegen eines widerrechtlich oder unsittlich gewordenen Zwecks.
+2 Stiftungen, welche ihrer Bestimmung nach unter die Aufsicht der Gemeinde fallen, können mit Einwilligung des Stiftungsrates und des zuständigen Gemeinderates auch der Aufsicht des Kantons unterstellt werden.
+3 Das zuständige Departement als kantonale Aufsichtsbehörde ist Oberaufsichtsbehörde für Stiftungen, die unter Aufsicht der Gemeinde stehen.
+4 Der Regierungsrat bezeichnet das zuständige Departement und erlässt die notwendigen Ausführungsbestimmungen und einen Gebührentarif. Die zu erhebenden Gebühren orientieren sich am Aufwand und am Vermögen der zu kontrollierenden Einrichtungen.
+5 Die in den Absätzen 1 und 3 genannten Funktionen und Tätigkeiten können vom Landrat im Rahmen einer interkantonalen Vereinbarung auch einer Aufsichtsbehörde eines anderen Kantons oder einer gemeinsamen Einrichtung des öffentlichen Rechts übertragen werden.
