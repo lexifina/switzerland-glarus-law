@@ -5,6 +5,7 @@
 ## 5. Arbeitsverhinderung, Lohnfortzahlung
 ## 6. Ferien, Urlaub und Feiertage
 ## 7. Personalführung, Mitarbeitergespräch
+## 7a. Konflikte am Arbeitsplatz und Missstände in der Verwaltung
 ## 8. Aus- und Weiterbildung, Personalentwicklung
 ## 9. Beendigung der Arbeitsverhältnisse
 ## 10. Übergangs- und Schlussbestimmungen
