@@ -1,5 +1,6 @@
-## 1. Allgemeine Bestimmungen
-## 2. Verlosungen bei Unterhaltungsanlässen
-## 3. Lotterien und Wetten zu gemeinnützigen und wohltätigen Zwecken
-## 4. Gebühren, Rechtsmittel
-## 5. Schlussbestimmungen
+## 1. Allgemeines
+## 2. Unterhaltungslotterien
+## 3. Kleinlotterien
+## 4. Gewerbsmässige Wetten
+## 5. Bewilligungsgebühren
+## 6. Spielsuchtabgabe
