@@ -1,5 +1,6 @@
-# Kantonale Verordnung zum eidgenössischen Tierseuchengesetz
-Vom 25.09.1996
-Der Landrat,
-gestützt auf die Artikel 9 und 59 Absatz 1 des eidgenössischen Tierseuchengesetzes (TSG) und den Beschluss der Landsgemeinde vom 7. Mai 1967 betreffend den Vollzug des TSG vom 1. Juli 1966,
+# Verordnung zum kantonalen Tierschutz- und Tierseuchengesetz
+(Veterinärverordnung)
+Vom 17.09.2013
+Der Regierungsrat,
+gestützt auf die Artikel 5, 8, 13, 17, 19–23, 26–28, 33, 38 und 39 des Einführungsgesetzes zum Tierschutzgesetz und zum Tierseuchengesetz und Artikel 9 des Bevölkerungsschutzgesetzes,
 verordnet:

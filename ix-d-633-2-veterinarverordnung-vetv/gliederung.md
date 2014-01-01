@@ -1,6 +1,8 @@
-## 1. Geltungsbereich
-## 2. Aufsicht und Organisation
-## 3. Verkehr mit Tieren, tierischen Stoffen und anderen Gegenständen
-## 4. Bekämpfungsmassnahmen
-## 5. Tierseuchenfonds
-## 6. Straf-, Vollzugs- und Schlussbestimmungen
+## 1. Allgemeine Bestimmungen
+## 2. Tierschutz
+## 3. Tierseuchen
+## 4. Hundehaltung
+## 5. Gebühren und Entschädigungen
+## 6. Rechtsschutz
+## 7. Übergangs- und Schlussbestimmungen
+## A1. Anhang: Anerkannte Prüfungen
