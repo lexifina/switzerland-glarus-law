@@ -1,3 +1,4 @@
-# Vollziehungsgesetz zum Bundesgesetz vom 8. Juni 1923 betreffend die Lotterien und die gewerbsmässigen Wetten
-Vom 02.05.1971
-(Erlassen von der Landsgemeinde am 2. Mai 1971)
+# Einführungsgesetz zum Bundesgesetz betreffend die Lotterien und die gewerbsmässigen Wetten
+(Kantonales Lotteriegesetz, KLG)
+Vom 06.05.2012
+(Erlassen von der Landsgemeinde am 6. Mai 2012)
