@@ -1,0 +1,5 @@
+# Art. 8a Koordinierter Sanitätsdienst
+1 Das Departement bestellt den Koordinierten Sanitätsdienst, der aus Fachleuten des Gesundheitswesens besteht.
+2 Der Koordinierte Sanitätsdienst trifft, soweit nötig in Zusammenarbeit mit der Kantonalen Führungsorganisation, Vorbereitungen zur Bewältigung von Ereignissen sowohl der besonderen als auch der ausserordentlichen Lage, die im Anwendungsbereich des Gesetzes über den Bevölkerungsschutz liegen, namentlich bei schweren Unfällen mit vielen Verletzten, Katastrophen, flächendeckenden Gesundheitsgefährdungen von Mensch und Tier und dergleichen.
+3 Zu diesem Zweck erstellt er ein Einsatzkonzept. Dieses stellt sicher, dass das notwendige Personal und die erforderlichen Mittel zur Verfügung stehen, um die betroffene Bevölkerung oder Personengruppen medizinisch und psychologisch zu versorgen.
+4 Der Regierungsrat genehmigt das Konzept gemäss Absatz 3 und stellt die Finanzierung sicher. Er kann mit anderen Kantonen und Dritten Vereinbarungen abschliessen.

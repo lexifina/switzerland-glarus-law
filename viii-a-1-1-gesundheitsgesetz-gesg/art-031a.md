@@ -1,2 +1,2 @@
-# Art. 31a Berufspflichten gemäss Medizinalberufegesetz; Anwendung auf Unselbstständige
-1 Die Bestimmungen des eidgenössischen Medizinalberufegesetzes über die Berufspflichten (Art. 40 MedBG) bleiben vorbehalten. Sie gelangen sinngemäss auch für jene Personen zur Anwendung, die einen universitären Medizinalberuf in unselbstständiger Stellung ausüben (Art. 30 Abs. 2).
+# Art. 31a Berufspflichten gemäss Medizinal- und Psychologieberufegesetz; Anwendung auf die Berufsausübung gemäss Artikel 25 Absatz 2
+1 Die Bestimmungen der eidgenössischen Gesetzgebung über die Berufspflichten bleiben vorbehalten. Sie gelangen sinngemäss auch für jene Personen zur Anwendung, die ihren Beruf gemäss Artikel 25 Absatz 2 ausüben.
