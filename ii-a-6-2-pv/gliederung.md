@@ -1,6 +1,7 @@
 ## 1. Allgemeine Bestimmungen
 ## 2. Begründung und Dauer der Arbeitsverhältnisse
 ## 3. Arbeitszeit, Mehrstunden
+## 3a. Nebenberuf, Nebenbeschäftigung und öffentliches Amt
 ## 4. Zusätzliche Entschädigungen, Spesen
 ## 5. Arbeitsverhinderung, Lohnfortzahlung
 ## 6. Ferien, Urlaub und Feiertage
