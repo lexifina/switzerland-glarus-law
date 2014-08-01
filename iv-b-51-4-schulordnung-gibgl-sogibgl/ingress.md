@@ -1,4 +1,5 @@
-# Schulordnung der Berufsfachschule Ziegelbrücke
-Vom 24.09.2008
-(Erlassen von der Aufsichtskommission am 24. September 2008)
-(Genehmigt vom Departement Bildung und Kultur am 21. Oktober 2008)
+# Schulordnung der gewerblich-industriellen Berufsfachschule Ziegelbrücke
+Vom 09.09.2014
+Die Aufsichtskommission,
+gestützt auf Artikel 17 Absatz 1 Buchtsabe c der Verordnung über die Berufsfachschulen und den Vollzug in der Berufsbildung (Vollzugsverordnung Berufsbildung),
+erlässt:
