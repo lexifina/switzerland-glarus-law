@@ -1,5 +1,5 @@
-# Beschluss über die Herausgabe der Gesetzessammlung
-Vom 25.09.1974
-Der Landrat,
-gestützt auf Artikel 2 Absatz 2 des Gesetzes über die Neuherausgabe einer Sammlung des glarnerischen Rechtes (Gesetzessammlung),
-beschliesst:
+# Publikationsverordnung
+Vom 12.08.2014
+Der Regierungsrat,
+gestützt auf Artikel 99 Buchstabe b der Verfassung des Kantons Glarus und das Publikationsgesetz,
+verordnet:
