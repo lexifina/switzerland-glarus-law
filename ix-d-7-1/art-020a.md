@@ -1,5 +1,5 @@
 # Art. 20a Treueprämien
-1 Der Arbeitnehmer hat Anspruch auf eine Treueprämie von
+1 Arbeitnehmende haben Anspruch auf eine Treueprämie von
 a. einem Fünftel des Monatslohnes: nach 5 Dienstjahren,
 b. einem Drittel des Monatslohnes: nach 10 Dienstjahren,
 c. einem halben Monatslohn: nach 15 Dienstjahren,
