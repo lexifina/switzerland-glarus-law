@@ -1,7 +1,7 @@
 ## 1. Allgemeine Bestimmungen
-## 2. Beratung, Soforthilfe und weitere Hilfeleistungen
+## 2. Opferberatungsstelle
 ## 3. Finanzielles
-## 4. Entschädigung und Genugtuung
-## 5. Rückforderung
-## 6. Rechtsmittel
+## 4. Kostenbeiträge an längerfristige Hilfe Dritter, Entschädigung und Genugtuung
+## 5. Regress- und Rückforderungen, Finanzhilfen
+## 6. Rechtsschutz
 ## 7. Schlussbestimmungen
