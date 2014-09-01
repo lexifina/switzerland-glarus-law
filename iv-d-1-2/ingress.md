@@ -1,5 +1,5 @@
-# Verordnung zum Gesetz über die Förderung von Turnen und Sport
-Vom 06.03.1974
-Der Landrat,
-gestützt auf Artikel 14 des Gesetzes vom 6. Mai 1973 über die Förderung von Turnen und Sport,
-beschliesst:
+# Sportverordnung
+Vom 03.07.2014
+Der Regierungsrat,
+gestützt auf Artikel 3 Absatz 3 des Gesetzes über die Förderung von Turnen und Sport (Sportgesetz),
+verordnet:
