@@ -1,4 +1,4 @@
-# Vollzugsverordnung zur eidgenössischen Zivilstandsverordnung
+# Verordnung über den Vollzug der eidgenössischen Zivilstandsverordnung
 (Kantonale Zivilstandsverordnung)
 Vom 10.01.2006
 Der Regierungsrat,
