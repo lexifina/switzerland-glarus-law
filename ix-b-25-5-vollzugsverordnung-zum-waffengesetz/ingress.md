@@ -1,4 +1,4 @@
-# Vollzugsverordnung zum Bundesgesetz über Waffen, Waffenzubehör und Munition
+# Verordnung über den Vollzug des Bundesgesetzes über Waffen, Waffenzubehör und Munition
 (Vollzugsverordnung zum Waffengesetz)
 Vom 08.06.1999
 Der Regierungsrat,

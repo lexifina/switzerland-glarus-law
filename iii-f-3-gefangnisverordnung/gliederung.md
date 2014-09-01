@@ -1,6 +1,6 @@
 ## 1. Organisation
 ### 1.1. Allgemeines
-### 1.2. Pflichten des Gefangenenwartes
+### 1.2. Pflichten der Gefangenenbetreuer
 ### 1.3. Pflichten der Fachstelle Justizvollzug im Bereich Gefangenenwesen
 ### 1.4. …
 ## 2. Hausordnung
