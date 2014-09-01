@@ -1,3 +1,5 @@
-# Reglement über den A.-Bremicker-Fonds
+# Verordnung über den A.-Bremicker-Fonds
 Vom 05.11.1991
-(Erlassen vom Regierungsrat am 5. November 1991)
+Der Regierungsrat,
+gestützt auf Artikel 99 Absatz 1 Buchstabe b der Kantonsverfassung,
+verordnet:
