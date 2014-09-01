@@ -6,6 +6,6 @@
 ## 6. Organisation
 ## 7. Ortsgemeinden
 ## 8. Kosten-, Schadenersatz
-## 9. Private Ordnungs-, Sicherheits-, Detekteidienste
+## 9. Private Sicherheitsdienstleistungen
 ## 10. Rechtsschutz
 ## 11. Schlussbestimmungen
