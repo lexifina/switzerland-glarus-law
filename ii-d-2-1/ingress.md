@@ -1,2 +1,2 @@
-# Stiftungsurkunde für die Pensionskasse des Kantons Glarus
+# Stiftungsurkunde für die Glarner Pensionskasse
 Vom 29.06.2005
