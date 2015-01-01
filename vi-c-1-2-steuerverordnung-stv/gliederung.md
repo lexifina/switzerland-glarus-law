@@ -1,5 +1,5 @@
 ## 1. Kantonssteuern
-### 1.1. Verfahrensbestimmungen
+### 1.1. …
 ### 1.2. Verfahrensgrundsätze
 #### 1.2.1. Allgemeine Bestimmungen
 #### 1.2.2. Form und Zustellung von Verfügungen und Entscheiden
