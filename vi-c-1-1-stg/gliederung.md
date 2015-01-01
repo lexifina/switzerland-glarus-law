@@ -46,8 +46,8 @@
 ##### 1.8.4.1. Quellensteuer
 ##### 1.8.4.2. Grundstückgewinnsteuer
 ##### 1.8.4.3. Erbschafts- und Schenkungssteuern
-#### 1.8.4a. Rekursverfahren
-#### 1.8.5. Beschwerdeverfahren
+#### 1.8.4a. Beschwerdeverfahren vor der Steuerrekurskommission
+#### 1.8.5. Beschwerdeverfahren vor Verwaltungsgericht
 #### 1.8.6. Änderung rechtskräftiger Verfügungen und Entscheide
 ##### 1.8.6.1. Revision
 ##### 1.8.6.2. Berichtigung
