@@ -1,5 +1,4 @@
 # Verordnung über die landwirtschaftlichen Strukturverbesserungen und die sozialen Begleitmassnahmen
-Vom 28.01.2003
-Der Regierungsrat,
-gestützt auf Artikel 99 Buchstabe b der Kantonsverfassung sowie die Artikel 25 Absatz 4 und 29 Absatz 2 des Einführungsgesetzes vom 7. Mai 2000 zum Bundesgesetz über die Landwirtschaft (Kantonales Landwirtschaftsgesetz; Einführungsgesetz; EG),
-verordnet:
+(Strukturverbesserungsverordnung; kant. SVV)
+Vom 16.12.2014
+gestützt auf Artikel 2 Absatz 2 Buchstabe h und Artikel 13 Absatz 2 des Einführungsgesetzes zu den Bundesgesetzen über die Landwirtschaft, über das bäuerliche Bodenrecht und über die landwirtschaftliche Pacht (EG LwG),
