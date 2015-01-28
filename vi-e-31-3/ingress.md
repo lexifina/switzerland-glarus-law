@@ -1,4 +1,5 @@
 # Verordnung über den Vollzug der Fischereigesetzgebung
-Vom 09.12.1997
-(Erlassen vom Regierungsrat am 9. Dezember 1997)
-(Genehmigt vom Eidgenössischen Departement des Innern am 11. Februar 1998)
+Vom 25.11.2014
+Der Regierungsrat,
+gestützt auf Artikel 3 Absatz 2 des Bundesgesetzes über die Fischerei, Artikel 5 Absätze 2–4 des Einführungsgesetzes zum Bundesgesetz über die Fischerei (Kantonales Fischereigesetz) und die Verordnung über die Fischerei,
+verordnet:
