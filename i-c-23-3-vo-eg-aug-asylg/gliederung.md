@@ -1,3 +1,3 @@
-## 1. Zuständige Behörden
+## 1. Zuständigkeit
 ## 2. Gebühren
 ## 3. Schlussbestimmung
