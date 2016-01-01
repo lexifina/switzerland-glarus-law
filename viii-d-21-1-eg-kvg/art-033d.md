@@ -1,4 +1,0 @@
-# Art. 33d Kostenanteil Kanton, Leistungserbringer
-1 Der Anteil des Kantons an die anrechenbaren Kosten der Pflegeleistungen der Akut- und Übergangspflege gemäss Artikel 25a Absatz 2 KVG beträgt 55 Prozent.
-2 Der Regierungsrat erteilt Leistungsaufträge für die Akut- und Übergangspflege an ambulante oder stationäre Leistungserbringer, die er von einem nachgewiesenen Bedarf abhängig macht. Beauftragte Organisationen des Privatrechts haften wie das Gemeinwesen. Für jeden Leistungserbringer ist eine Haftung aus rechtmässigem Verhalten (Art. 7 Staatshaftungsgesetz) bei der medizinischen Untersuchung, Behandlung und Pflege ausgeschlossen.
-3 Der Regierungsrat regelt die Einzelheiten, namentlich die Ermittlung von Kosten und Leistungen, das Vergütungsverfahren und das Verfahren betreffend Haftung von beauftragten Organisationen des Privatrechts.
