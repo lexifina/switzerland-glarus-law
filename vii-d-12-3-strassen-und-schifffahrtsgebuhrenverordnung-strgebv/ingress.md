@@ -1,3 +1,6 @@
 # Verordnung über die Gebühren im Strassenverkehr und in der Schifffahrt
-Vom 08.07.2004
-(Erlassen vom Regierungsrat am 8. Juli 2004)
+(Strassen- und Schifffahrtsgebührenverordnung, StrGebV)
+Vom 17.11.2015
+Der Regierungsrat,
+gestützt auf Artikel 11 Absatz 2 des Einführungsgesetzes zum Bundesgesetz über den Strassenverkehr und Artikel 8 des Einführungsgesetzes zum Bundesgesetz über die Binnenschifffahrt,
+verordnet:
