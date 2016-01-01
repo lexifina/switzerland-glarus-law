@@ -1,5 +1,5 @@
 # Art. 3a Energieeffizienz
 1 …
-2 Für den Ersatz der Beleuchtung in Industrie, Gewerbe, Bürobauten und Verkaufslokalen wird ein Beitrag von 15 Prozent bzw. maximal 10'000 Franken gewährt.
+2 Für den Ersatz der Beleuchtung in Industrie, Gewerbe, Bürobauten und Verkaufslokalen wird ein Beitrag von 15 Prozent bzw. maximal 10 000 Franken gewährt.
 3 …
-4 Für Betriebe, die als Grossverbraucher gelten, kann der Kanton an die Kosten für eine Bestandesaufnahme (Energie-Check-up) nach den Vorgaben der mit der Umsetzung und dem Monitoring von Zielvereinbarungen und bei der CO2-Abgabebefreiung betrauten Organisationen einen Beitrag leisten. Der Beitrag beträgt 50 Prozent der Kosten der Bestandesaufnahme, im Maximum 8000 Franken. Diese Fördermassnahme ist bis zum 31. Dezember 2015 befristet.
+4 Für Betriebe, die als Grossverbraucher gelten, kann der Kanton an die Kosten für eine Bestandesaufnahme (Energie-Check-up) nach den Vorgaben der mit der Umsetzung und dem Monitoring von Zielvereinbarungen und bei der CO2-Abgabebefreiung betrauten Organisationen einen Beitrag leisten. Der Beitrag beträgt 50 Prozent der Kosten der Bestandesaufnahme, im Maximum 8000 Franken. Diese Fördermassnahme ist bis zum 31. Dezember 2016 befristet.
