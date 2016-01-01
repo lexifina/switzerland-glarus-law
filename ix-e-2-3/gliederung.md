@@ -2,4 +2,4 @@
 ## 2. Dienstverhältnis und Organisation
 ## 3. Dienstpflichten und Abgeltung
 ## 4. Inkrafttreten
-## A1. Dienstpflichten der Revierförster und deren Abgeltungsform
+## A1. Dienstpflichten der Revierförster
