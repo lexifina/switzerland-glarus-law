@@ -5,7 +5,7 @@
 ### 3.2. Verwaltungsrat
 ### 3.3. Verwaltungsratspräsident
 ### 3.4. Geschäftsführung
-### 3.5. Revisionsstellen
+### 3.5. Revisionsstellen und interne Revision
 ## 4. Kantonale Behörden
 ## 5. Jahresrechnung, Gewinnverteilung, Reserven
 ## 6. Weitere Bestimmungen
