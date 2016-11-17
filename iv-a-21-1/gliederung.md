@@ -32,7 +32,7 @@
 #### 1.5.1. Erhebung und Verwaltung der Steuern
 #### 1.5.2. Erstellung und Unterhalt der kircheneigenen Gebäude
 #### 1.5.3. Erhebung und Verwaltung der Sammlungen und Kollekten
-#### 1.5.4. Erhebung von Beiträgen für kirchliche Handlungen und kirchliche Dienste
+#### 1.5.4. …
 ### 1.6. Organe der Kirchgemeinde
 #### 1.6.1. Übersicht
 #### 1.6.2. Kirchgemeindeversammlung
@@ -40,9 +40,9 @@
 #### 1.6.4. Beauftragte für die Rechnungsrevision
 ### 1.7. Angestellte und Beauftragte der Kirchgemeinde
 #### 1.7.1. Allgemeine Bestimmungen
-#### 1.7.2. Pfarrer und Pfarrerin
-#### 1.7.3. Pfarrdiakonat
-#### 1.7.4. Diakone und Diakoninnen, Gemeindehelfer und Gemeindehelferinnen, Sozialarbeiter und Sozialarbeiterinnen, Katecheten und Katechetinnen
+#### 1.7.2. Pfarrpersonen
+#### 1.7.3. …
+#### 1.7.4. Sozialdiakone und Sozialdiakoninnen, Sozialarbeiter und Sozialarbeiterinnen, Fachlehrpersonen für den kirchlichen Religionsunterricht, Jugendarbeiter und Jugendarbeiterinnen
 #### 1.7.5. Organistendienst
 #### 1.7.6. Sigristendienst
 #### 1.7.7. Andere Dienste
