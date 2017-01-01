@@ -1,6 +1,6 @@
-# Verordnung über die Prämienverbilligung
-(V IPV)
+# Verordnung über den Vollzug der Prämienverbilligung
+(Prämienverbilligungsvollzugsverordnung; VV PV)
 Vom 23.12.2013
-Der Regierungsrat
-gestützt auf die Artikel 2 Absatz 3, 4 Buchstaben d und g, 10–33 sowie 34 des Einführungsgesetzes zum Bundesgesetz über die Krankenversicherung (EG KVG),
-erlässt folgende Verordnung:
+Der Regierungsrat,
+gestützt auf Artikel 4, 13, 14 Absatz 2 und 17 Absatz 2 des Einführungsgesetzes zum Bundesgesetz über die Krankenversicherung (EG KVG),
+erlässt:
