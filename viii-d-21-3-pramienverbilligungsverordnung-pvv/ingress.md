@@ -1,3 +1,6 @@
-# Beschluss über die Selbstbehalte bei der Prämienverbilligung
-Vom 08.12.2004
-(Erlassen vom Landrat am 8. Dezember 2004)
+# Verordnung über die Prämienverbilligung
+(Prämienverbilligungsverordnung; PVV)
+Vom 21.12.2016
+Der Landrat,
+gestützt auf Artikel 14 Absatz 3, Artikel 15 Absatz 1 und Artikel 16 Absatz 3 des Einführungsgesetzes zum Bundesgesetz über die Krankenversicherung (EG KVG),
+erlässt:
