@@ -1,0 +1,5 @@
+# Art. 32b Datenbearbeitung von gewaltbereiten Personen
+1 Öffentliche Organe gemäss Artikel 2 Absatz 1 des Datenschutzgesetzes dürfen der Kantonspolizei Personen melden, bei denen Anzeichen für eine Gewaltbereitschaft gegen Dritte vorliegen. Dieses Melderecht gilt auch für Inhaber einer Berufsausübungsbewilligung gemäss Gesundheitsgesetz.
+2 Die Kantonspolizei prüft die bei ihr eingehenden Meldungen. Hierzu dürfen, soweit notwendig, Personendaten, einschliesslich besonders schützenswerter Personendaten, bearbeitet und mit weiteren Stellen zur fachübergreifenden Konsultation ausgetauscht werden.
+3 Liegen hinreichende Anzeichen für eine erhöhte Gewaltbereitschaft gegen Dritte vor, ergreift die Kantonspolizei die erforderlichen Massnahmen. Sie kann insbesondere potenzielle Opfer informieren. Die Rechte des Gefährders sind soweit als möglich zu wahren.
+4 Ergibt die Prüfung, dass es bei der gemeldeten Person an hinreichenden Anzeichen für eine erhöhte Gewaltbereitschaft gegen Dritte fehlt, werden die über sie erhobenen Personendaten gelöscht.
