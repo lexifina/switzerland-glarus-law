@@ -1,4 +1,6 @@
 # Gesetz über das Kantons- und Gemeindebürgerrecht
-(Bürgerrechtsgesetz)
-Vom 02.05.1993
-(Erlassen von der Landsgemeinde am 2. Mai 1993)
+(Kantonales Bürgerrechtsgesetz, KBüG)
+Vom 01.05.2016
+Die Landsgemeinde,
+gestützt auf Artikel 69 Absatz 1 der Kantonsverfassung,
+erlässt:

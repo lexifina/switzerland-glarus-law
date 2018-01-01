@@ -1,9 +1,12 @@
 ## 1. Allgemeine Bestimmungen
-## 2. Bürgerrechte
-## 3. Erwerb von Gesetzes wegen
-## 4. Erwerb durch Einbürgerung
-### 4.1. Aufnahme von Schweizer Bürgern
-### 4.2. Aufnahme von Ausländern
-## 5. Ehrenbürgerrecht
-## 6. Verlust des Bürgerrechts
-## 7. Schluss- und Übergangsbestimmungen
+## 2. Erwerb des Bürgerrechts von Gesetzes wegen
+## 3. Erwerb des Bürgerrechts durch behördlichen Beschluss
+### 3.1. Einbürgerung von Schweizer Staatsangehörigen
+### 3.2. Einbürgerung von ausländischen Staatsangehörigen
+### 3.3. Ehrenbürgerrecht
+## 4. Verlust des Bürgerrechts
+## 5. Datenbearbeitung und Amtshilfe
+## 6. Zuständigkeiten und Kompetenzen
+## 7. Verfahren und Gebühren
+## 8. Rechtsschutz
+## 9. Übergangs- und Schlussbestimmungen
