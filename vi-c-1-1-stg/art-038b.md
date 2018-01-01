@@ -1,0 +1,2 @@
+# Art. 38b Bewertung von Beteiligungen an neu gegründeten Unternehmen von juristischen Personen
+1 Für Beteiligungen an einem neu gegründeten Unternehmen einer juristischen Person mit Sitz oder mit tatsächlicher Verwaltung im Kanton, welches dem volkswirtschaftlichen Interesse des Kantons dient, kann der Regierungsrat auf Antrag der Inhaber der Beteiligungsrechte für die ersten zehn Geschäftsjahre einen reduzierten Verkehrswert festlegen. Gegen die Entscheide des Regierungsrates besteht kein kantonales Rechtsmittel.
