@@ -1,9 +1,0 @@
-# Art. 39a Weitere Verteilungen
-1 Sind noch nicht alle Sitze verteilt, so werden die verbliebenen einzeln und nacheinander nach folgenden Regeln zugeteilt:
-a. Die Stimmenzahl jeder Liste wird durch die um eins vergrösserte Anzahl der ihr bereits zugeteilten Mandate geteilt.
-b. Das nächste Mandat wird derjenigen Liste zugeteilt, die den grössten Quotienten aufweist.
-c. Haben mehrere Listen aufgrund des gleichen Quotienten den gleichen Anspruch auf das nächste Mandat, so erhält jene unter diesen Listen das nächste Mandat, welche bei der Teilung nach Artikel 39 Absatz 2 den grössten Rest erzielte.
-d. Falls noch immer mehrere Listen den gleichen Anspruch haben, geht das Mandat an jene dieser Listen, welche die grösste Parteistimmenzahl aufweist.
-e. Haben immer noch mehrere Listen den gleichen Anspruch, so erhält jene dieser Listen das nächste Mandat, bei welcher der für die Wahl in Betracht kommende Kandidat die grösste Stimmenzahl aufweist.
-f. Falls mehrere solche Kandidaten die gleiche Stimmenzahl aufweisen, entscheidet das Los.
-2 Dieses Vorgehen wird solange wiederholt, bis alle Sitze verteilt sind.

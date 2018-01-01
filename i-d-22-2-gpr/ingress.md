@@ -1,5 +1,6 @@
-# Gesetz über die Wahlen und Abstimmungen an der Urne
-(Abstimmungsgesetz)
-Vom 07.05.1989
-(Erlassen von der Landsgemeinde am 7. Mai 1989)
-(Genehmigt vom Bundesrat am 14. September 1989)
+# Gesetz über die politischen Rechte
+(GPR)
+Vom 07.05.2017
+Die Landsgemeinde,
+gestützt auf Artikel 69 Absatz 1 der Kantonsverfassung, das Bundesgesetz über die politischen Rechte und das Auslandschweizergesetz,
+erlässt:
