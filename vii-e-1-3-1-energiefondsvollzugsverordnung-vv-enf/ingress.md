@@ -1,6 +1,6 @@
 # Verordnung über den Vollzug der Verordnung über den Energiefonds
 (Energiefondsvollzugsverordnung, VV Enf)
-Vom 21.12.2010
+Vom 06.03.2018
 Der Regierungsrat,
-gestützt auf die Artikel 7 und 8 der Verordnung über den Energiefonds,
-verordnet:
+gestützt auf die Artikel 7–9 der Verordnung über den Energiefonds,
+erlässt:

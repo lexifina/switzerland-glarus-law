@@ -1,3 +1,4 @@
-## 1. Vorhaben im Gebäudebereich
-## 2. Vorhaben im Bereich erneuerbare Energie
-## 3. Allgemeine Bestimmungen
+## 1. Allgemeine Bestimmungen
+## 2. Förderbereich Gebäudehülle
+## 3. Förderbereich erneuerbare Energie und Haustechnik
+## 4. Förderbereich Energiecoaching / Energieeffizienz
