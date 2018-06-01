@@ -10,5 +10,6 @@
 ## 10. Geodienste
 ## 11. Datenbezug
 ## 12. Datenaustausch unter Behörden
+## 12a. Kataster der öffentlich-rechtlichen Eigentumsbeschränkungen (ÖREB-Kataster)
 ## 13. Gebühren
 ## 14. Schlussbestimmungen
