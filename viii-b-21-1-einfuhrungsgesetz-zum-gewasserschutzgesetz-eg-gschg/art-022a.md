@@ -1,3 +1,3 @@
 # Art. 22a Gebühren
 1 Für Kontrollen und besondere Dienstleistungen nach diesem Gesetz und den dazugehörigen Ausführungsbestimmungen werden Gebühren erhoben.
-2 Der Regierungsrat erlässt eine Gebührenverordnung.
+2 …
