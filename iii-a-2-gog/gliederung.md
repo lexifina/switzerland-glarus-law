@@ -1,5 +1,5 @@
 ## 1. Allgemeine Bestimmungen
-## 2. Vermittlerämter
+## 2. Kantonale Schlichtungsbehörde
 ## 3. Kantonsgericht und Einzelrichter
 ## 4. Obergericht
 ## 5. Verwaltungsgerichtliche Behörden
