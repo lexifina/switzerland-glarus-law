@@ -1,7 +1,7 @@
 ## 1. Allgemeine Bestimmungen
 ## 2. Raumplanung
 ### 2.1. Allgemeines
-### 2.2. Kantonale Raumplanung
+### 2.2. Kantonale Richtplanung
 ### 2.3. Raumplanung der Gemeinden
 #### 2.3.1. Allgemeines
 #### 2.3.2. Kommunale Richtplanung
@@ -11,6 +11,7 @@
 #### 2.3.6. Verfahren
 ### 2.4. Durchführung und Förderung der Planung
 #### 2.4.1. Plansicherung
+#### 2.4.1.a Mehrwertabgabe
 #### 2.4.2. Erschliessung
 #### 2.4.3. Landumlegung, Grenzbereinigung
 #### 2.4.4. Enteignung
