@@ -2,7 +2,7 @@
 ## 2. Strassenbaulast, Baubeschlusskompetenz und Eigentumsverhältnisse
 ### 2.1. Gemeinsame Bestimmungen
 ### 2.2. Kantonsstrassen
-### 2.3. Gemeindeverbindungsstrassen
+### 2.3. …
 ### 2.4. Gemeindestrassen
 ### 2.5. Korporationsstrassen
 ### 2.6. Landesfusswege, Gebirgspässe, Fahrtsweg und Wanderwege
