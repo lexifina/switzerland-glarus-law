@@ -1,6 +1,6 @@
 # Verordnung über die Entlöhnung der Behördenmitglieder sowie des Staats- und Lehrpersonals
-(Lohnverordnung)
-Vom 21.11.2007
-Der Landrat des Kantons Glarus,
-gestützt auf Artikel 91 Buchstabe f der Kantonsverfassungsowie auf die Artikel 17 des Personalgesetzes und 74 des Bildungsgesetzes,
-beschliesst:
+(Lohnverordnung, LohnV)
+Vom 28.06.2017
+Der Landrat,
+gestützt auf Artikel 91 Absatz 1 Buchstabe f der Kantonsverfassung, Artikel 17 des Personalgesetzes und Artikel 74 des Bildungsgesetzes,
+erlässt:
