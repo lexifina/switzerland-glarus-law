@@ -1,3 +1,3 @@
-## 1. Einreihungsplan
-## 2. Entlöhnung und Einreihung ohne anerkannte Ausbildung
-## 3. Schlussbestimmungen
+## 1. Allgemeines
+## 2. Einreihung der Funktionen in die Lohnbänder
+## 3. Übergangsbestimmungen
