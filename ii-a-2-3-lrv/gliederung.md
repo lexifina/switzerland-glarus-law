@@ -32,6 +32,7 @@
 #### 5.3.1. Begriffe
 #### 5.3.2. Verfahren bei Motionen und Postulaten
 #### 5.3.3. Verfahren bei Interpellationen
+#### 5.3.4. Verfahren bei Auskunftsbegehren nach Kantonalbankgesetz
 ## 6. Verhandlungsordnung
 ### 6.1. Beratung
 ### 6.2. Abstimmungen
@@ -40,6 +41,7 @@
 ### 7.1. Regierungsrat
 ### 7.2. Richterliche Behörden
 ### 7.3. Sachverständige
+### 7.4. Vertreter von Organisationen
 ## 8. Protokoll
 ## 9. Entschädigungen
 ## 10. Schlussbestimmungen
