@@ -1,6 +1,6 @@
 ## 1. Allgemeine Bestimmungen
 ## 2. Besondere Zuständigkeiten
-## 3. Schlichtungsbehörden und Rechtsberatungsstellen
+## 3. …
 ## 4. Ergänzende Verfahrensbestimmungen
 ### 4.1. Allgemeines
 ### 4.2. Amtlicher Befund
