@@ -6,4 +6,5 @@
 ### 2.4. Bodenschutz
 ### 2.5. Katastrophenschutz (Chemiewehr, Strahlenschutz)
 ### 2.6. Abfälle
+### 2.7. Invasive gebietsfremde Organismen
 ## 3. Schlussbestimmungen
