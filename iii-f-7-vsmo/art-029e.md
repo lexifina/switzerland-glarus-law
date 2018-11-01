@@ -1,0 +1,3 @@
+# Art. 29e Amtliche Aufklärungspflicht
+1 Die Fachstelle Justizvollzug klärt eine verurteilte Person darüber auf, dass ein beauftragter Therapeut oder eine beauftragte Therapeutin oder die mit der Durchführung einer stationären oder ambulanten Massnahme beauftragte Einrichtung den zuständigen Vollzugsbehörden gegenüber berichterstattungs- und informationspflichtig ist, sowie namentlich in Bezug auf die Erreichung der Behandlungsziele und den Behandlungsverlauf von der ärztlichen Schweigepflicht entbunden ist.
+2 Sie informiert die Therapeutin oder den Therapeuten über die Befreiung von der ärztlichen Schweigepflicht im Behandlungsauftrag.
