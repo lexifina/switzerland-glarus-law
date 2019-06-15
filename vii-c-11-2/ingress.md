@@ -1,4 +1,5 @@
-# Verzeichnis der Kantonsstrassen
-Vom 02.05.1971
-(Anhang zum Strassengesetz)
-In Revision.
+# Strassenverzeichnis Kantonsstrassen
+Vom 14.06.2019
+Das Departement Bau und Umwelt,
+gestützt auf Artikel 19 Absatz 1 des Strassengesetzes,
+erlässt:
