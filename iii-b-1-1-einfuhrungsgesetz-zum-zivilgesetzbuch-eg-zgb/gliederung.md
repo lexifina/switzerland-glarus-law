@@ -7,6 +7,7 @@
 #### 2.1.2. Veröffentlichung
 ### 2.2. Personenrecht
 #### 2.2.1. Bürgerliche Ehrenfähigkeit
+##### 2.2.1a. Wohnsitz
 #### 2.2.2. Zivilstandswesen (Art. 40 ZGB)
 #### 2.2.3. Körperschaften des kantonalen Rechts (Art. 59 Abs. 3 ZGB)
 ### 2.3. Familienrecht
