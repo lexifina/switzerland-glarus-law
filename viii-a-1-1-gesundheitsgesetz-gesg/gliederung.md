@@ -5,6 +5,7 @@
 ## 3. Gesundheitsförderung und Prävention, Gesundheitspolizei
 ## 4. Einrichtungen der Gesundheitsversorgung
 ### 4.1. Leistungen von Kanton und Gemeinden
+### 4.1a Förderung der medizinischen Grundversorgung
 ### 4.2. Gesundheitspolizeiliche Aufsicht
 ## 5. Berufe im Gesundheitswesen
 ### 5.1. Berufsausübungsbewilligung
@@ -13,4 +14,4 @@
 ## 6. Rechtsstellung der Patienten
 ## 7. Heil- und Betäubungsmittel
 ## 8. Bestattungswesen
-## 9. Straf-, Rechtsschutz- und Schlussbestimmungen
+## 9. Schlussbestimmungen

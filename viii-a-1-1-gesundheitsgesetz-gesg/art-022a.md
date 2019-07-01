@@ -1,3 +1,0 @@
-# Art. 22a Wohnortnahe oder innovative Angebote und Versorgungsmodelle
-1 Um den Zugang der Bevölkerung zu versorgungspolitisch sinnvollen medizinischen Leistungen sicherzustellen, kann der Regierungsrat für innovative oder wohnortnahe ambulante Angebote beziehungsweise Versorgungsmodelle mit anderen Kantonen oder Dritten Vereinbarungen abschliessen.
-2 Der Regierungsrat kann Beiträge an die ungedeckten Kosten für Leistungen gemäss Absatz 1 gewähren, sofern die Tarife die Kosten einer wirtschaftlichen Leistungserbringung nicht decken und die ungedeckten Kosten nicht durch Gewinne aus Zusatzleistungen gedeckt werden.
