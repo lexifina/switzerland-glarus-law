@@ -61,6 +61,7 @@
 ## 2. Gemeindesteuern
 ### 2.1. Allgemeines
 ### 2.2. Politische Gemeinden
+### 2.2a. Kommunale Bausteuer
 ### 2.3. Kirchensteuer
 ## 3. Steuerstrafrecht
 ### 3.1. Straftatbestände und strafbare Personen
