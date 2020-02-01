@@ -4,4 +4,4 @@
 a. einem international anerkannten Sprachdiplom mit Sprachniveau mindestens B2 gemäss dem Gemeinsamen Europäischen Referenzrahmen, das nicht älter als sechs Jahre ist;
 b. einem in deutscher Sprache erworbenen Aus- oder Weiterbildungsabschluss des entsprechenden Gesundheitsberufes;
 c. Arbeitserfahrung im deutschsprachigen Raum im entsprechenden Gesundheitsberuf von drei Jahren innerhalb der letzten zehn Jahre.
-3 In Ausnahmefällen kann das Departement einen anderen als in Absatz 2 vorgesehenen Nachweis akzeptieren.
+3 In Ausnahmefällen kann die Hauptabteilung einen anderen als in Absatz 2 vorgesehenen Nachweis akzeptieren.

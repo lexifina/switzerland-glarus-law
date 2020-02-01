@@ -1,0 +1,3 @@
+# Art. 15b Übergangsbestimmung zur Änderung vom 21. Januar 2020
+1 Bewilligungsinhaberinnen und Bewilligungsinhaber, die bei Inkrafttreten der vorliegenden Änderung die fachliche Verantwortung und Aufsicht über eine Person gemäss Artikel 30a des Gesundheitsgesetzes wahrnehmen, haben die Übernahme der fachlichen Verantwortung und Aufsicht bis spätestens am 30. Juni 2020 der Hauptabteilung zu bestätigen.
+2 Einrichtungen müssen spätestens fünf Jahre nach dem Inkrafttreten von Artikel 23 Absatz 3a des Gesundheitsgesetzes fachverantwortliche Personen bezeichnen, welche über eine Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung verfügen.
