@@ -10,7 +10,7 @@
 ## 5. Berufe im Gesundheitswesen
 ### 5.1. Berufsausübungsbewilligung
 ### 5.2. Berufsausübung
-### 5.3. Erlöschen der Bewilligung, Bewilligungsentzug und Berufsausübungsverbot
+### 5.3. Erlöschen der Bewilligung, Disziplinarmassnahmen und Tätigkeitsverbot
 ## 6. Rechtsstellung der Patienten
 ## 7. Heil- und Betäubungsmittel
 ## 8. Bestattungswesen
