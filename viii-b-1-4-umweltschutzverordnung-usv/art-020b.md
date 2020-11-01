@@ -1,0 +1,3 @@
+# Art. 20b Melde- und Bekämpfungspflicht
+1 Als Grundlage für die Festlegung der Melde- und Bekämpfungspflicht durch den Regierungsrat dient Anhang 2 der Freisetzungsverordnung und Anhang 3 der Verordnung zum Bundesgesetz über die Fischerei. Zusätzlich dazu kann der Regierungsrat für weitere Organismen eine Melde- und Bekämpfungspflicht anordnen.
+2 Der Regierungsrat legt den zeitlichen und örtlichen Umfang der Melde-, Unterhalts- und Bekämpfungspflicht fest. Er legt fest, unter welchen Voraussetzungen der Unterhalt oder die Bekämpfung von invasiven gebietsfremden Organismen durch Dritte zu dulden ist.
