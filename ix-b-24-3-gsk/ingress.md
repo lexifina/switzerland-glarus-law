@@ -1,3 +1,6 @@
-# Beschluss über den Beitritt zur Interkantonalen Vereinbarung über die Aufsicht sowie die Bewilligung und Ertragsverwendung von interkantonal oder gesamtschweizerisch durchgeführten Lotterien und Wetten
-Vom 07.05.2006
-(Erlassen von der Landsgemeinde am 7. Mai 2006)
+# Gesamtschweizerisches Geldspielkonkordat
+(GSK)
+Vom 20.05.2019
+Die Kantone,
+gestützt auf Artikel 48 und Artikel 106 sowie Artikel 191b Absatz 2 der Bundesverfassung der Schweizerischen Eidgenossenschaft (BV) und das Bundesgesetz über Geldspiele (BGS),
+vereinbaren:
