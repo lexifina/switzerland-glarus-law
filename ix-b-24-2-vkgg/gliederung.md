@@ -1,6 +1,7 @@
 ## 1. Allgemeines
-## 2. Unterhaltungslotterien
-## 3. Kleinlotterien
-## 4. Gewerbsmässige Wetten
-## 5. Bewilligungsgebühren
-## 6. Spielsuchtabgabe
+## 2. Kleinlotterien
+## 3. Unterhaltungslotterien
+## 4. Kleine Pokerturniere
+## 5. Spiellokale
+## 6. Abgaben
+## 7. Übergangsbestimmungen
