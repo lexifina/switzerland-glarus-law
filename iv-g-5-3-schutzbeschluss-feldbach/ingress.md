@@ -1,5 +1,6 @@
-# Beschluss über den Schutz des Feucht- und Trockenbiotops «Feldbach» Mollis
-Vom 13.10.1981
+# Beschluss über den Schutz des Amphibienlaichgebietes «Feldbach» Mollis
+(Schutzbeschluss Feldbach)
+Vom 24.11.2020
 Der Regierungsrat,
-gestützt auf Artikel 11 des Gesetzes vom 2. Mai 1971 über den Natur- und Heimatschutz,
-beschliesst:
+gestützt auf Artikel 11 des Gesetzes über den Natur- und Heimatschutz, Artikel 18a Absatz 2 des Bundesgesetzes über den Natur- und Heimatschutz und Artikel 5–8 der Amphibienlaichgebiete-Verordnung,
+erlässt:

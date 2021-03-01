@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1: Plan
+Anhang 1: Feldbach Schutzzonenplan
