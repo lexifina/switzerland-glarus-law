@@ -4,6 +4,6 @@
 ## 4. Schutzanlagen
 ## 5. Ersatzvornahme
 ## 6. Kulturgüterschutz
-## 7. Polizeiverstärkung
+## 7. Formation Sicherheit
 ## 8. Gebührenpflichtige Verwaltungshandlungen
-## 9. Pauschalentschädigung an Milizkader
+## 9. Entschädigungen
