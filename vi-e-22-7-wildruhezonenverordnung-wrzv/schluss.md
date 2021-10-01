@@ -1,2 +1,2 @@
 Anhänge
-Anhang 1: Wildruhezonenpläne VI E/22/7
+Anhang 1 : Wildruhezonenpläne VI E/22/7
