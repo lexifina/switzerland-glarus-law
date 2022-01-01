@@ -1,3 +1,6 @@
-# Interkantonale Universitätsvereinbarung
-Vom 20.02.1997
-(Schweizerische Konferenz der kantonalen Erziehungsdirektoren und Schweizerische Konferenz der kantonalen Finanzdirektoren)
+# Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen
+(Interkantonale Universitätsvereinbarung, IUV)
+Vom 27.06.2019
+Die Kantone,
+gestützt auf Artikel 48 der Bundesverfassung,
+vereinbaren:
