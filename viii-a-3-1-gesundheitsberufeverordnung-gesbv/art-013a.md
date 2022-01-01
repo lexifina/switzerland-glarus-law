@@ -5,6 +5,8 @@ b. für die Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung 
 c. …
 d. für die erstmalige Betriebsbewilligung: 1000 Fr.;
 e. für die Erneuerung der Betriebsbewilligung: 300 Fr.;
+e1. für die Zulassung zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung: 400 Fr.;
+e2. für die Bestätigung, dass die persönlichen Anforderungen für die Tätigkeit in einer Organisation zulasten der obligatorischen Krankenpflegeversicherung erfüllt sind: 200 Fr.;
 f. für die Ausstellung von Bescheinigungen: 100 Fr.;
 g. für das Vornehmen von Mutationen (je nach Aufwand): 100–300 Fr.
 1a Für Personen, die im Besitze der Berufsausübungsbewilligung eines anderen Kantons sind, ist die Bewilligung zur Berufsausübung im Kanton Glarus kostenlos.
