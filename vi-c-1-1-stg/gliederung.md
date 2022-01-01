@@ -21,8 +21,8 @@
 #### 1.3.4. Zeitliche Bemessung
 ### 1.4. Quellensteuern für natürliche und juristische Personen
 #### 1.4.1. Natürliche Personen mit steuerrechtlichem Wohnsitz oder Aufenthalt im Kanton
-#### 1.4.2. Natürliche und juristische Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz
-#### 1.4.3. Erhebung der Quellensteuer im interkantonalen Verhältnis
+#### 1.4.2. Natürliche Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz sowie juristische Personen ohne Sitz oder tatsächliche Verwaltung in der Schweiz
+#### 1.4.3. Örtliche Zuständigkeit und interkantonales Verhältnis
 ### 1.5. Grundstückgewinnsteuer
 #### 1.5.1. Veräusserungen
 #### 1.5.2. Steuerobjekt
@@ -70,7 +70,7 @@
 #### 3.1.3. Verjährung der Strafverfolgung
 ### 3.2. Strafverfahren
 #### 3.2.1. Untersuchung
-#### 3.2.2. Gerichtliche Beurteilung
+#### 3.2.2. …
 #### 3.2.3. Bussen
 ### 3.3. Steuervergehen
 ## 4. Verteilung Grundstückgewinnsteuer, Erbschafts- und Schenkungssteuer
