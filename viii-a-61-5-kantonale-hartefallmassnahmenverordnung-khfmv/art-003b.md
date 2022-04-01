@@ -1,3 +1,0 @@
-# Art. 3b Unterstützungsbeiträge für individuelle kantonale Härtefälle
-1 Ergänzend zu bereits erbrachten kantonalen Leistungen zur Abfederung der Folgen der Covid-19-Pandemie, können die Härtefallbeiträge nach Artikel 3 und 3a für Unternehmen der Tourismus- oder Eventbranche im Rahmen und unter den Voraussetzungen von Artikel 15 Covid-19-Härtefallverordnung maximal verdreifacht werden.
-2 Unternehmen, deren branchenspezifische Covid-19-Finanzhilfe geringer ausgefallen ist als eine Härtefallhilfe nach bisherigem Recht ausfallen würde, kann der Differenzbetrag gestützt auf und im Rahmen von Artikel 15 Covid-19-Härtefallverordnung ausbezahlt werden.

@@ -1,6 +1,6 @@
 # Verordnung zum Spezialfonds Härtefallunterstützungen für Unternehmen im Zusammenhang mit der Covid-19-Pandemie
-(kantonale Härtefallverordnung, kHFV)
-Vom 22.12.2020
+(Kantonale Härtefallmassnahmenverordnung, KHFMV)
+Vom 15.03.2022
 Der Regierungsrat,
-gestützt auf die Covid-19-Härtefallverordnung,
+gestützt auf die Covid-19-Härtefallverordnung 2022 (HFMV 22),
 erlässt:
