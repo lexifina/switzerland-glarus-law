@@ -1,4 +1,0 @@
-# Art. 3a Nebenbeschäftigungen der Gerichtspräsidenten
-1 Der Verwaltungsgerichtspräsident und die Kantonsgerichtspräsidenten dürfen keinen Beruf ausüben, kein Gewerbe betreiben und nicht bei Gesellschaften, die einen Erwerb bezwecken, als Mitglied der Verwaltung oder der Revisions- bzw. Kontrollstelle tätig sein. Sie dürfen ihnen von der Kantonsverfassung erlaubte öffentliche Ämter sowie Tätigkeiten in politischen, gemeinnützigen oder kulturellen Organisationen nur ausüben, wenn diese mit ihrem Vollamt und mit ihrer Unabhängigkeit vereinbar sind.
-2 Der Obergerichtspräsident darf keine anderweitigen Beschäftigungen ausüben, die mit seinem Amt oder mit seiner Unabhängigkeit unvereinbar sind.
-3 Die Verwaltungskommission der Gerichte orientiert den Landrat im Rahmen des Amtsberichtes über alle Nebenbeschäftigungen der Gerichtspräsidenten, die im Lichte der vorstehenden Absätze von Interesse sind.

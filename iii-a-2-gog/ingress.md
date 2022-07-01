@@ -1,4 +1,6 @@
-# Gesetz über die Gerichtsorganisation des Kantons Glarus
-(Gerichtsorganisationsgesetz, GOG)
-Vom 06.05.1990
-Erlassen von der Landsgemeinde am 6. Mai 1990
+# Gerichtsorganisationsgesetz
+(GOG)
+Vom 05.09.2021
+Die Landsgemeinde,
+gestützt auf Artikel 75 Absatz 1 und Artikel 112 Absatz 1 der Kantonsverfassung, die Zivilprozessordnung (ZPO), das Schweizerische Strafgesetzbuch (StGB), die Strafprozessordnung (StPO) und die Jugendstrafprozessordnung (JStPO),
+erlässt:

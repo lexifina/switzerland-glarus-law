@@ -1,2 +1,0 @@
-# Art. 3c Zuwendungen und andere Vorteile
-1 Den Mitgliedern der gerichtlichen Behörden ist es untersagt, im Zusammenhang mit amtlichen Tätigkeiten oder im Hinblick auf solche für sich oder Dritte irgendwelche Zuwendungen wie Geschenke, Barbeträge und dergleichen anzunehmen, sich Vorteile zu verschaffen oder versprechen zu lassen. Widerrechtlich angenommene Zuwendungen und andere Vorteile verfallen dem Kanton.

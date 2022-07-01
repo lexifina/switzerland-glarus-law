@@ -1,5 +1,0 @@
-# Art. 3b Amtsgeheimnis
-1 Die Mitglieder der gerichtlichen Behörden sind zur Verschwiegenheit über amtliche Angelegenheiten verpflichtet, die ihrer Natur nach oder gemäss besonderer Vorschrift geheim zu halten sind.
-2 Ihrer Natur nach geheim zu halten sind insbesondere Angaben über das Privatleben von Personen, über Geschäftsgeheimnisse von Unternehmen, über Angelegenheiten der Fürsorge und der Gesundheitspflege sowie über administrative oder strafrechtliche Verfolgungen und Sanktionen.
-3 Die Pflicht zur Amtsverschwiegenheit bleibt auch nach dem Ausscheiden aus der Behörde bestehen.
-4 Vorbehalten bleiben die Bestimmungen in der Kantonsverfassung, in den gesetzlichen Verfahrensordnungen und in der Landratsverordnung über die Entbindung vom Amtsgeheimnis und die Verpflichtung zur Offenbarung sowie über die Öffentlichkeit von Verhandlungen. Im Übrigen sind die gerichtlichen Behörden ausnahmsweise nicht an das Amtsgeheimnis gebunden, wenn wichtige öffentliche Interessen für die Offenbarung sprechen und dieser keine überwiegenden öffentlichen oder privaten Interessen entgegen stehen.

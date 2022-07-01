@@ -1,16 +1,14 @@
 ## 1. Allgemeine Bestimmungen
-## 2. Kantonale Schlichtungsbehörde
-## 3. Kantonsgericht und Einzelrichter
-## 4. Obergericht
-## 5. Verwaltungsgerichtliche Behörden
-## 6. Gerichtsergänzung und Stellvertretung
-## 7. Geschäftsordnung der Gerichte
-## 8. Aufsicht und Amtsbericht
-## 9. Verwaltungskommission der Gerichte
-## 10. Gerichtskanzlei
-## 11. …
-## 12. …
-## 13. …
-## 14. Rechtsanwälte
-## 15. Kosten
-## 16. Schluss- und Übergangsbestimmungen
+## 2. Aufsicht
+## 3. Verwaltungskommission der Gerichte
+## 4. Gerichte
+### 4.1. Kantonsgericht
+### 4.2. Obergericht
+### 4.3. Verwaltungsgericht
+### 4.4. Gemeinsame Bestimmungen
+#### 4.4.1. Allgemeines
+#### 4.4.2. Gerichtsergänzung und Entscheid über den Ausstand
+#### 4.4.3. Geschäftsordnung
+#### 4.4.4. Personal
+#### 4.4.5. Gebühren und Entschädigung Dritter
+## 5. Schlichtungsbehörde
