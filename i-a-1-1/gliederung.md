@@ -4,7 +4,7 @@
 ### 1.3. Bürgerrecht
 ### 1.4. Bürgerpflichten
 ## 2. Öffentliche Aufgaben und Finanzordnung
-### 2.1. Umweltschutz und Raumordnung
+### 2.1. Umweltschutz, Klimaschutz und Raumordnung
 ### 2.2. Öffentliche Ordnung
 ### 2.3. Sozialwesen
 ### 2.4. Gesundheitswesen
@@ -24,7 +24,7 @@
 #### 5.2.2. Kantonale Verwaltung
 ### 5.3 Rechtspflege
 #### 5.3.1. Gerichte
-#### 5.3.2. Strafverfolgung
+#### 5.3.2. Strafverfolgungsbehörden
 ## 6. Gemeinden, Zweckverbände und Korporationen
 ### 6.1. Stellung der Gemeinden und Zweckverbände
 ### 6.2. Arten von Gemeinden
