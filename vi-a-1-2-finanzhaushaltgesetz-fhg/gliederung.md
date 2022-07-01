@@ -3,7 +3,7 @@
 ### 1.2. Begriffe
 ## 2. Gesamtsteuerung des Haushalts
 ### 2.1. Grundsätze
-### 2.2. Finanz- und Aufgabenplan
+### 2.2. Integrierter Aufgaben- und Finanzplan
 ### 2.3. Budget
 ### 2.4. Jahresrechnung
 ### 2.5. Haushaltgleichgewicht, Schuldenbegrenzung und Beurteilung der Finanzlage
