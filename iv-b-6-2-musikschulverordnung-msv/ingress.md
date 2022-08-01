@@ -1,5 +1,6 @@
-# Verordnung über die Ausrichtung von Beiträgen an den Musikunterricht schulpflichtiger Kinder
-Vom 01.10.1973
-Der Regierungsrat
-gestützt auf Artikel 99 Buchstabe b der Kantonsverfassung und das Gesetz vom 6. Mai 1973 über die Förderung des Musikunterrichts schulpflichtiger Kinder,
-verordnet:
+# Verordnung zum Gesetz über die musikalische Bildung
+(Musikschulverordnung, MSV)
+Vom 28.06.2022
+Der Regierungsrat,
+gestützt auf Artikel 8 Absatz 2 des Musikschulgesetzes (MSG),
+erlässt:
