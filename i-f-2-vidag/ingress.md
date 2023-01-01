@@ -1,6 +1,6 @@
-# Datenschutzverordnung
-(DSV)
-Vom 20.05.2003
+# Verordnung zum Gesetz über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen
+(VIDAG)
+Vom 08.11.2022
 Der Regierungsrat,
-gestützt auf die Artikel 8, 22 und 24 des Gesetzes vom 5. Mai 2002 über den Schutz von Personendaten (Datenschutzgesetz),
-beschliesst:
+gestützt auf Artikel 99 Absatz 1 Buchstabe b der Kantonsverfassung,
+erlässt:
