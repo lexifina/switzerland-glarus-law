@@ -1,6 +1,6 @@
 # Verordnung über den Finanzhaushalt des Kantons Glarus und seiner Gemeinden
-(Finanzhaushaltverordnung; FHV)
-Vom 21.04.2010
+(Finanzhaushaltverordnung, FHV)
+Vom 31.08.2022
 Der Landrat,
-gestützt auf das Gesetz vom 3. Mai 2009 über den Finanzhaushalt des Kantons Glarus und seiner Gemeinden (FHG),
-beschliesst:
+gestützt auf das Finanzhaushaltgesetz (FHG),
+erlässt:
