@@ -4,6 +4,6 @@
 ### 2.2. Ärztliche und zahnärztliche Kosten, Kosten für Arznei, Pflege und Betreuung
 ### 2.3. Hilfsmittel und Hilfsgeräte
 ## 3. Organisation und Verfahren
-## 4. Schlussbestimmungen
+## 4. Schluss- und Übergangsbestimmungen
 ## A1. Anhang 1: Maximale EL-Beiträge
-## A2. Anhang 2: Liste der Hilfsmittel, Pflegehilfs- und Behandlungsgeräte
+## A2. …
