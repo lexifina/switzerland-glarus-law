@@ -1,0 +1,3 @@
+# Art. 8a Wärmedämmung von lüftungstechnischen Anlagen
+1 Luftkanäle, Rohre und Geräte von Lüftungs- und Klimaanlagen müssen je nach Temperaturdifferenz im Auslegungsfall und Wärmeleitfähigkeit (λ-Wert) des Dämmmaterials gemäss Norm SIA 382/1,«Lüftungs- und Klimaanlage – Allgemeine Grundlagen und Anforderungen», Ausgabe 2014, Ziffer 5.9 gegen Wärmeübertragung (Wärmeverlust und Wärmeaufnahme) geschützt werden.
+2 In begründeten Fällen wie z. B. bei kurzen Leitungsstücken, Kreuzungen, Wand- und Deckendurchbrüchen, wenig benutzten Leitungen mit Klappen im Bereich der thermischen Hülle sowie bei Platzproblemen bei Ersatz und Erneuerungen können die Dämmstärken reduziert werden.

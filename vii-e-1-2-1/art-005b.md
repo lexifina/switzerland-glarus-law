@@ -1,0 +1,5 @@
+# Art. 5b Berechnungsregeln
+1 Zur Berechnung des gewichteten Energiebedarfs für Heizung, Warmwasser, Lüftung und Klimatisierung wird der Nutzwärmebedarf für Heizung Qh,eff und Warmwasser QW mit den Nutzungsgraden η der gewählten Wärmeerzeugungen dividiert und mit dem Gewichtungsfaktor g der eingesetzten Energieträger multipliziert sowie der ebenfalls mit dem entsprechenden Gewichtungsfaktor g gewichtete Elektrizitätsaufwand für Lüftung und Klimatisierung ELK addiert.
+2 Es wird nur die dem Gebäude zugeführte hochwertige Energie für Raumheizung, Warmwasser, Lüftung und Raumklimatisierung in den Energiebedarf eingerechnet. Die nutzungsabhängigen Prozessenergien werden nicht in den Energiebedarf eingerechnet.
+3 Elektrizität aus Eigenstromerzeugung wird nicht in die Berechnung des gewichteten Energiebedarfs einbezogen. Ausgenommen ist Elektrizität aus Wärme-Kraft-Koppelungs-Anlagen.
+4 Für die Gewichtung der Energieträger gelten die von der Konferenz der Energiedirektoren definierten nationalen Gewichtungsfaktoren.

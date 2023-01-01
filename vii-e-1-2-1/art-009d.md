@@ -1,0 +1,3 @@
+# Art. 9d Grenzwerte für den Elektrizitätsbedarf Beleuchtung
+1 Bei Neubauten, Umbauten und Umnutzungen mit einer Energiebezugsfläche von mehr als 1000 Quadratmeter muss die Einhaltung der Grenzwerte für den jährlichen Elektrizitätsbedarf für Beleuchtung EL gemäss SIA 387/4 «Elektrizität in Gebäuden – Beleuchtung: Berechnung und Anforderungen», Ausgabe 2017, nachgewiesen werden. Davon ausgenommen sind Wohnbauten oder Teile davon.
+2 Die Anforderung gemäss Absatz 1 gilt ebenfalls als erfüllt, wenn mit dem Hilfsprogramm Beleuchtung der Energiefachstellenkonferenz nachgewiesen wird, dass die Vorgabe an die spezifische Leistung pL bestimmt aus Grenz- respektive Zielwert gemäss Tabelle 13 der Norm SIA 387/4 eingehalten wird.
