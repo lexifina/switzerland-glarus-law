@@ -3,7 +3,7 @@
 ### 2.1. Organe
 ### 2.2. Verwaltungsrat
 ### 2.3. Geschäftsleitung
-### 2.4. Revision
+### 2.4. Rechnungslegung und Revision
 ## 3. Haftung und Personelles
 ## 4. Aufsicht
 ## 5. Zusammenarbeit mit Behörden

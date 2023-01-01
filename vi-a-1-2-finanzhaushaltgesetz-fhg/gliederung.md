@@ -6,13 +6,13 @@
 ### 2.2. Integrierter Aufgaben- und Finanzplan
 ### 2.3. Budget
 ### 2.4. Jahresrechnung
-### 2.5. Haushaltgleichgewicht, Schuldenbegrenzung und Beurteilung der Finanzlage
+### 2.5. Finanzpolitische Ziele und Steuerung
 ## 3. Kreditrecht
 ### 3.1. Allgemeines
 ### 3.2. Verpflichtungs- und Zusatzkredit
 ### 3.3. Budget- und Nachtragskredit
 ### 3.4. Programmvereinbarungen mit dem Bund
-### 3.5. Spezialfinanzierungen
+### 3.5. Spezialfinanzierungen und Fonds
 ## 4. Rechnungslegung
 ### 4.1. Allgemeines
 ### 4.2. Bilanzierung, Bewertung und Abschreibungen
