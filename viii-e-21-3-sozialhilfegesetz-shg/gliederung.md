@@ -9,7 +9,7 @@
 ### 3.3. Wirtschaftliche Hilfe
 ## 4. Spezielle Hilfsangebote
 ### 4.1. Jugend- und Familienhilfe
-### 4.2. Betagten- und Behindertenhilfe
+### 4.2. Behindertenhilfe
 ### 4.3. Suchthilfe
 ## 5. Aus- und Weiterbildung
 ## 6. Heimaufsicht

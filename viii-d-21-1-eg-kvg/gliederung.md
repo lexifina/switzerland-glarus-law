@@ -9,6 +9,7 @@
 ## 6. Pflegefinanzierung
 ### 6.1. Langzeitpflege
 ### 6.2. Akut- und Übergangspflege
+### 6.3. Rechnungslegung
 ## 7. Spitalplanung und -finanzierung
 ## 8. Datenschutz
 ## 9. Rechtspflege

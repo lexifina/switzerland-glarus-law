@@ -1,0 +1,6 @@
+# Art. 23a Aus- und Weiterbildungsverpflichtung
+1 Bewilligungspflichtige Einrichtungen sind verpflichtet, eine angemessene Anzahl Aus- und Weiterbildungsplätze für Pflegeberufe anzubieten.
+2 Sofern die angebotenen Aus- und Weiterbildungsplätze für Pflegeberufe nicht dem prognostizierten künftigen Bedarf entsprechen, kann der Regierungsrat:
+a. eine verbindliche Anzahl Aus- bzw. Weiterbildungsplätze für jeden Betrieb festlegen;
+b. Kompensationszahlungen vorsehen, wenn die vorgegebene Anzahl der Aus- bzw. Weiterbildungsplätze nicht erreicht wird. Diese sind zweckgebunden für die Nachwuchsförderung der Pflegeberufe zu verwenden oder an die Betriebe auszurichten, welche die vorgegebene Zahl der Aus- bzw. Weiterbildungsplätze überschreiten.
+3 Die Betriebe können die verbindliche Anzahl Aus- bzw. Weiterbildungsplätze auch gemeinsam bereitstellen.
