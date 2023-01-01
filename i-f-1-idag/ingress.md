@@ -1,4 +1,6 @@
-# Gesetz über den Schutz von Personendaten
-(Datenschutzgesetz, DSG)
-Vom 05.05.2002
-(Erlassen von der Landsgemeinde am 5. Mai 2002)
+# Gesetz über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen
+(IDAG)
+Vom 05.09.2021
+Die Landsgemeinde,
+gestützt auf Artikel 69 Absatz 1 und Artikel 80 Absatz 1 der Verfassung des Kantons Glarus,
+erlässt:
