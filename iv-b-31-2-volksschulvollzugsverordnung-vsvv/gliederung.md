@@ -1,6 +1,6 @@
 ## 1. Allgemeines
 ## 2. Sonderpädagogische Angebote der Gemeinden
-## 3. Tagesstrukturen und Betreuung vorschulpflichtiger Kinder
+## 3. …
 ## 4. Absenzen, Dispensation und Urlaub der Lernenden
 ## 5. Schulleitungen
 ## 6. Schlussbestimmungen
