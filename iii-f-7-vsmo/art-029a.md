@@ -9,5 +9,5 @@ f. die in derselben Wohnung lebenden erwachsenen Personen der Überwachung und d
 g. die verurteilte Person dem Vollzugs- und Wochenplan sowie dem jederzeitigen, unangemeldeten Zutrittsrecht der Vollzugsbehörden zustimmt;
 h. die verurteilte Person für die Dauer des Vollzugs eine Privathaftpflichtversicherung nachweisen kann;
 i. keine überwiegenden schutzwürdigen Interessen von Drittpersonen gegen den Vollzug durch elektronische Überwachung sprechen.
-2 Die Fachstelle Justizvollzug bezeichnet gestützt auf die Richtlinien der Ostschweizerischen Strafvollzugskommission die mit dem Gesuch einzureichenden Unterlagen und Nachweise.
+2 Die Abteilung Justizvollzug bezeichnet gestützt auf die Richtlinien der Ostschweizerischen Strafvollzugskommission die mit dem Gesuch einzureichenden Unterlagen und Nachweise.
 3 Für die Zulassung ist bei teilbedingten Freiheitsstrafen in zeitlicher Hinsicht die Gesamtdauer der Strafe (bedingter und unbedingter Teil) massgeblich.

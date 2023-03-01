@@ -1,5 +1,5 @@
 # Art. 29d Abbruch
-1 Die Fachstelle Justizvollzug kann die elektronische Überwachung, in der Regel nach vorgängiger Ermahnung, abbrechen und den Normalvollzug oder den Vollzug in Halbgefangenschaft anordnen, wenn die Bewilligungsvoraussetzungen nicht mehr erfüllt sind, bei mangelndem Wohlverhalten während des Vollzugs, bei einem Verlust der Arbeits- oder Ausbildungsstelle oder bei einem Missbrauch dieser besonderen Vollzugsform.
+1 Die Abteilung Justizvollzug kann die elektronische Überwachung, in der Regel nach vorgängiger Ermahnung, abbrechen und den Normalvollzug oder den Vollzug in Halbgefangenschaft anordnen, wenn die Bewilligungsvoraussetzungen nicht mehr erfüllt sind, bei mangelndem Wohlverhalten während des Vollzugs, bei einem Verlust der Arbeits- oder Ausbildungsstelle oder bei einem Missbrauch dieser besonderen Vollzugsform.
 2 Als Missbrauch der elektronischen Überwachung gelten insbesondere:
 a. Verwendung der freien Zeit ausserhalb der Unterkunft zu anderen als den erlaubten oder im Vollzugs- oder Wochenplan vereinbarten Zwecken;
 b. keine oder verspätete Rückkehr von der Arbeit oder der freien Zeit;

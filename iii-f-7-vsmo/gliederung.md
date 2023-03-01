@@ -6,4 +6,4 @@
 ### 2.4. Arbeitsexternat und Wohn- und Arbeitsexternat, Beschäftigung bei externem Arbeitgeber
 ### 2.5. …
 ## 2.6. Elektronische Überwachung
-## 3. Befreiung von der ärztlichen Schweigepflicht
+## 3. Befreiung von der ärztlichen Schweigepflicht, Datenaustausch

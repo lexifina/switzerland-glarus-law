@@ -1,0 +1,2 @@
+# Art. 29f Datenaustausch
+1 Die Abteilung Justizvollzug (inklusive Bewährungshilfe) sowie die Abteilung Soziale Dienste sind berechtigt, Personendaten und besonders schützenswerte Personendaten untereinander sowie mit anderen staatlichen Behörden der Kantone oder des Bundes auszutauschen, soweit eine solche Bekanntgabe rechtlich vorgesehen oder sie für die Erfüllung einer gesetzlichen Aufgabe geeignet und erforderlich ist.
