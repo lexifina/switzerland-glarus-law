@@ -1,4 +1,5 @@
 ## 1. Allgemeines
+## 1a. Zulassung als Kaminfeger
 ## 2. Schadenverhütung und -bekämpfung
 ## 3. Disziplinarwesen
 ## 4. Finanzen
