@@ -1,5 +1,5 @@
 # Art. 25a Geltungsbereich der Leinen- und Maulkorbpflicht für Hunde auswärtiger Halter
 1 Die Leinen- und Maulkorbpflicht gemäss Artikel 31 Absatz 2 des Gesetzes entfällt, wenn die auswärtigen Halter oder Halterinnen:
 a. von Hunden gemäss Artikel 19 Buchstaben a–f sowie Mischlingen mit Anteilen der betreffenden Rassen über eine Erlaubnis des kantonstierärztlichen Dienstes zum freien Ausführen verfügen; eine solche Erlaubnis wird Haltern und Halterinnen erteilt, welche die persönlichen Voraussetzungen gemäss Artikel 21 Absatz 2 erfüllen und eine Prüfung gemäss Artikel 24 bestanden haben oder über eine Halterbewilligung eines andern Kantons verfügen; zur Gesuchstellung sind die Unterlagen gemäss Artikel 23 einzureichen;
-b. von Hunden gemäss Artikel 19 Buchstaben g–l und deren Mischlingen eine Prüfung gemäss Artikel 24 bestanden haben oder über eine Halterbewilligung eines anderen Kantons verfügen.
+b. von Hunden gemäss Artikel 19 Buchstaben h–l und deren Mischlingen eine Prüfung gemäss Artikel 24 bestanden haben oder über eine Halterbewilligung eines anderen Kantons verfügen.
 2 Die entsprechenden Nachweise sind stets mitzuführen und auf Verlangen den zur Kontrolle befugten Personen vorzuweisen.
