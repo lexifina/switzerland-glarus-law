@@ -39,7 +39,9 @@
 #### 4.4.6. Weitere Spesen
 ### 4.5. Treueprämie
 ### 4.6. Lohnfortzahlung
+## 4a. Personelle Ereignisse mit dienstlichem Charakter
 ## 5. Personalvorsorge
 ## 6. Personalwesen
 ## 7. Schluss- und Übergangsbestimmungen
 ## A1. Anhang: Zusammenstellung der Entschädigung
+## A2. Anhang: Personelle Ereignisse mit dienstlichem Charakter
