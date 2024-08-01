@@ -1,6 +1,6 @@
 ## 1. Allgemeine Bestimmungen
-## 2. Anerkennungsbedingungen
-## 3. Besondere Bestimmungen
-## 4. Schweizerische Maturitätskommission
-## 5. Verfahren
+## 2. Mindestanforderungen an die gymnasialen Maturitätslehrgänge
+## 3. Abweichungen von den Mindestanforderungen
+## 4. Kantonale Massnahmen
+## 5. Gesuchseinreichung und Anerkennung
 ## 6. Schlussbestimmungen
