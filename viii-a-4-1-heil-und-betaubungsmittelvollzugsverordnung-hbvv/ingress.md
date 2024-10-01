@@ -1,6 +1,6 @@
 # Verordnung über den Vollzug der eidgenössischen Heil- und Betäubungsmittelgesetzgebung
-(Vollzugsverordnung zu HMG und BetmG)
-Vom 24.03.2009
+(Heil- und Betäubungsmittelvollzugsverordnung, HBVV)
+Vom 27.08.2024
 Der Regierungsrat,
-gestützt auf die Artikel 53, 56 und 57 des Gesetzes vom 6. Mai 2007 über das Gesundheitswesen (Gesundheitsgesetz),
-verordnet:
+gestützt auf Artikel 53 des Gesundheitsgesetzes (GesG),
+erlässt:
