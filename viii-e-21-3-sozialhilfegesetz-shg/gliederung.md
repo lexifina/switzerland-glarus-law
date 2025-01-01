@@ -4,7 +4,7 @@
 ### 2.2. Kanton
 ### 2.3. Andere öffentliche und private Organisationen
 ## 3. Sozialhilfeleistungen
-### 3.1. Vorbeugende Massnahmen
+### 3.1. Präventive Massnahmen
 ### 3.2. Persönliche Hilfe
 ### 3.3. Wirtschaftliche Hilfe
 ## 4. Spezielle Hilfsangebote
