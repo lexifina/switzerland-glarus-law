@@ -1,3 +1,6 @@
-# Radroutengesetz
-Vom 01.05.1983
-(Erlassen von der Landsgemeinde am 1. Mai 1983)
+# Kantonales Veloweggesetz
+(KVWG)
+Vom 05.05.2024
+Die Landsgemeinde,
+gestützt auf Artikel 24 Absatz 2 der Verfassung des Kantons Glarus und das Veloweggesetz,
+erlässt:
