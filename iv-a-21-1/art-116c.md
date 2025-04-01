@@ -1,0 +1,2 @@
+# Art. 116c Datenschutz und Datensicherheit
+1 Sowohl für die Landeskirche wie auch für die Kirchgemeinden gelten die datenschutz- und datensicherheitsrechtlichen Bestimmungen des Kantons Glarus, namentlich das Gesetz über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen (IDAG) sowie die Verordnung zum Gesetz über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen (VIDAG).
