@@ -1,3 +1,3 @@
 # Art. 32a
-1 Der Rechtsschutz gegenüber Amtshandlungen der Zivilstandsamtes bzw. der Zivilstandsbeamten richtet sich nach der eidgenössischen Zivilstandsverordnung. Erste Beschwerdeinstanz ist das zuständige Departement (Aufsichtsbehörde), zweite Instanz das Verwaltungsgericht.
+1 Der Rechtsschutz gegenüber Amtshandlungen des Zivilstandsamtes bzw. der Zivilstandsbeamten richtet sich nach der eidgenössischen Zivilstandsverordnung. Erste Beschwerdeinstanz ist das zuständige Departement (Aufsichtsbehörde), zweite Instanz das Verwaltungsgericht.
 2 …

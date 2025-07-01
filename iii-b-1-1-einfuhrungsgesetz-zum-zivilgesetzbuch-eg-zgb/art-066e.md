@@ -1,4 +1,4 @@
 # Art. 66e
-1 Die Kindes- und Erwachsenenschutzbehörde stellt für jede Person, die aus der fürsorgerischen Unterbringung entlassen wird, eine angemessene Nachbetreuung sicher. Sie holt vorgängig einen Bericht der behandelnden Ärztin oder des behandelnden Arztes oder der behandelnden Psychiaterin oder des behandelnden Psychiaters ein.
+1 Sorgt die entlassende Einrichtung nicht für eine angemessene Nachbetreuung für aus der fürsorgerischen Unterbringung entlassene Personen, stellt die Kindes- und Erwachsenenschutzbehörde diese auf Antrag und gestützt auf einen entsprechenden Bericht der entlassenden Einrichtung sicher.
 2 Die Nachbetreuung bezweckt die nachhaltige Stabilisierung des Gesundheitszustandes und die Vermeidung von Rückfällen.
 3 Die Bestimmungen über die ambulanten Massnahmen sind sinngemäss anzuwenden.

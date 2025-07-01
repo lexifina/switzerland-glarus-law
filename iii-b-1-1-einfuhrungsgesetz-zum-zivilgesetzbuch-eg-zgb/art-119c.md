@@ -1,2 +1,2 @@
 # Art. 119c
-1 Der Rechtsschutz richtet sich nach Artikel 67.
+1 Der Rechtsschutz richtet sich nach dem Verwaltungsrechtspflegegesetz.
