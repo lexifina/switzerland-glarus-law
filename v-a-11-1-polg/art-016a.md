@@ -1,6 +1,8 @@
-# Art. 16a Verfahren in Fällen häuslicher Gewalt
-1 Jede weggewiesene Person ist innert fünf Tagen nach der polizeilichen Wegweisung vom Zwangsmassnahmengericht einzuvernehmen, welches bis zum Ablauf dieser Frist über Aufhebung, Abänderung oder Verlängerung der Wegweisungsmassnahmen zu entscheiden hat. Die Wegweisung kann höchstens um zehn Tage verlängert werden.
-2 Das Zwangsmassnahmengericht erlässt unter Hinweis auf die Straffolgen nach Artikel 292 StGB einen schriftlich begründeten Entscheid und informiert die weggewiesene Person über geeignete Beratungs- und Therapieangebote. Erscheint diese nicht zur Einvernahme, ist aufgrund der Aktenlage zu entscheiden. Fallen Kindes- oder Erwachsenenschutzmassnahmen in Betracht, bringt das Zwangsmassnahmengericht die Wegweisung der zuständigen KESB unverzüglich zur Kenntnis.
-3 Das Zwangsmassnahmengericht informiert die gefährdete Person und die Kantonspolizei umgehend über den Inhalt und die Dauer der Wegweisungsverfügung, über die Folgen von deren Missachtung durch die weggewiesene Person, über geeignete Beratungsstellen und über die rechtlichen Möglichkeiten, insbesondere über die Möglichkeit der Anrufung des Zivilrichters.
-3a Das Verfahren und der Entscheid sind nicht öffentlich.
-4 Einer allfälligen Beschwerde gegen die Entscheidung des Zwangsmassnahmengerichts betreffend die Wegweisungsmassnahmen kommt keine aufschiebende Wirkung zu.
+# Art. 16a Vorgehen
+1 Die Kantonspolizei ermittelt den Sachverhalt und trifft umgehend die zum Schutz der gefährdeten Personen notwendigen polizeilichen Anordnungen, namentlich:
+a. Verfügung betreffend Wegweisung, Rückkehrverbot, Annäherungsverbot, Kontaktverbot und/oder Rayonverbot, unter Strafandrohung nach Artikel 292 des Schweizerischen Strafgesetzbuches (StGB) samt Hinweis auf die Artikel 16c und 16d;
+b. Abnahme der Wohnungsschlüssel der weggewiesenen Person bzw. Veranlassung einer Sperre bei Zutrittssystemen;
+c. Orientierung der gefährdeten Person über die Zuständigkeit zur Anordnung von zivilrechtlichen Massnahmen;
+d. Orientierung der geeigneten Fachstelle.
+2 Eine nach Artikel 16 weggewiesene Person erhält Gelegenheit, die nötigen Gegenstände des persönlichen Bedarfs mitzunehmen. Sie hat eine Zustelladresse zu bezeichnen. Unterlässt sie dies, können behördliche Zustellungen während der Dauer der Wegweisung durch Hinterlegung bei der Kantonspolizei erfolgen.
+3–4 …

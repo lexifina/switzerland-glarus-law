@@ -1,3 +1,3 @@
-# Art. 16b Verlängerung der Wegweisung und des Zutrittsverbotes bei häuslicher Gewalt
-1 Ersucht die gefährdete Person vor Ablauf der vom Zwangsmassnahmengericht angesetzten Wegweisungsdauer, längstens jedoch innert fünf Tagen nach Zustellung der Wegweisungsverfügung des Zwangsmassnahmengerichts, auf dem zivilrechtlichen Weg um Anordnung von Schutzmassnahmen nach den Artikeln 28 ff., 137 oder 175 ff. ZGB, verlängern sich die Wegweisung und das Zutrittsverbot bis zum zivilrichterlichen Entscheid, längstens jedoch um zehn Tage.
-2 Der Zivilrichter teilt den Betroffenen, dem Zwangsmassnahmengericht und der Kantonspolizei unverzüglich den Eingang des Gesuches und die Verlängerung der Wegweisung mit.
+# Art. 16b Zusammenarbeit mit der Kindes- und Erwachsenenschutzbehörde
+1 Kommen Kindesschutz- oder Erwachsenenschutzmassnahmen in Betracht, meldet die Kantonspolizei den Sachverhalt sowie die getroffenen polizeilichen Anordnungen der zuständigen Kindes- und Erwachsenenschutzbehörde.
+2 …
