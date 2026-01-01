@@ -1,32 +1,33 @@
 ## 1. Allgemeine Bestimmungen
-## 2. Gemeindearten
-## 3. Politische Rechte
-### 3.1. Grundlagen
-### 3.2. Gemeindeversammlung, Urnenwahl und Urnenabstimmung und Gemeindeparlament
-### 3.3. Wahlen
-### 3.4. Antragsrecht
-### 3.5. Obligatorische Abstimmungen
-### 3.6. Fakultative Abstimmungen
-### 3.7. Anfragen und Eingaben
-## 4. Durchführung der Gemeindeversammlung
-### 4.1. Zeitpunkt
-### 4.2. Vorbereitung
-### 4.3. Organisation
-### 4.4. Ablauf der Verhandlungen
-### 4.5. Rechtsschutz
-## 5. Behörden und Verwaltung der Gemeinden und Zweckverbände
-### 5.1. Allgemeine Vorschriften
-### 5.2. Vorsteherschaft
-### 5.3. Ausschüsse und Kommissionen
-### 5.4. Geschäftsprüfungskommission respektive Rechnungsprüfungsorgan
-### 5.5. Geschäftsordnung von Behörden und Kommissionen
-### 5.6. Organisation der Verwaltung
-### 5.7. Öffentliches Dienstrecht
-## 6. Zusammenarbeit mit andern Gemeinden; Zweckverbände
-### 6.1. Grundsätze der Zusammenarbeit
-### 6.2. Zweckverbände
-## 7. Aufsicht des Kantons
-## 8. Rechtsschutz
-## 9. Schlussbestimmungen
-### 9.1. Übergangsordnung zu den Änderungen vom 4. Mai 2008
-### 9.2. Aufhebung und Änderung bisherigen Rechts, Inkrafttreten
+## 2. Gemeindearten und Körperschaften des öffentlichen Rechts
+### 2.1. Gemeinden
+### 2.2. Öffentlich-rechtliche Korporationen
+### 2.3. Zweckverbände
+## 3. Organisation der Gemeinden
+### 3.1. Stimmberechtigte
+### 3.2. Gemeinsame Bestimmungen
+### 3.3. Parlamentsgemeinden
+### 3.4. Versammlungsgemeinden
+## 4. Die Gemeindeversammlung
+### 4.1. Vorbereitung
+### 4.2. Durchführung
+#### 4.2.1. Zeitpunkt
+#### 4.2.2. Ablauf der Verhandlungen
+#### 4.2.3. Rechtsschutz
+## 5. Das Gemeindeparlament
+## 6. Die Gemeindebehörden
+### 6.1. Allgemeine Bestimmungen
+### 6.2. Beratung
+### 6.3. Die Vorsteherschaft
+## 7. Rechnungs- und Geschäftsprüfung
+## 8. Aufgabenerfüllung
+### 8.1. Grundsätze
+### 8.2. Zweckverbände
+#### 8.2.1. Grundsätze der Zusammenarbeit
+#### 8.2.2. Gründungsformen
+#### 8.2.3. Organisation
+#### 8.2.4. Vorsteherschaft des Zweckverbands
+#### 8.2.5. Schlussbestimmungen zum Zweckverband
+## 9. Zusammenschluss von Gemeinden und Änderung von Gemeindegrenzen
+## 10. Aufsicht
+## 11. Rechtsschutz

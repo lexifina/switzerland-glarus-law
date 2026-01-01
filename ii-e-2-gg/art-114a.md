@@ -1,2 +1,0 @@
-# Art. 114a Massnahmen bei Verletzung von Dienstpflichten
-1 Bei Verletzung von Dienstpflichten der Angestellten kann die Vorsteherschaft zwecks Wiederherstellung der geordneten Aufgabenerfüllung folgende Massnahmen treffen: Erteilung eines schriftlichen Verweises, Aufhebung der ordentlichen Besoldungserhöhung, Besoldungskürzung, Kündigung und vorzeitige Auflösung des Dienstverhältnisses aus wichtigen Gründen (Art. 115).
