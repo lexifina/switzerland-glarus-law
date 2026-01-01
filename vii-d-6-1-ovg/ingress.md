@@ -1,4 +1,3 @@
 # Gesetz über den öffentlichen Verkehr
-(öV-Gesetz)
-Vom 05.05.1996
-(Erlassen von der Landsgemeinde am 5. Mai 1996)
+(öVG)
+Vom 04.05.2025
