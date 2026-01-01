@@ -17,4 +17,5 @@
 ### 4.2. Antrag zuhanden der Gemeindeversammlung
 ### 4.3. Fakultative Abstimmung auf Gemeindeebene
 ## 5. Petition
+## 5a. Förderung der politischen Partizipation
 ## 6. Rechtsschutz und Strafbestimmungen
