@@ -10,3 +10,4 @@
 2. für Personen nach Absatz 1 Ziffer 2: der Kanton, in dem die steuerpflichtige Person am Ende der Steuerperiode oder der Steuerpflicht erwerbstätig war;
 3. für Arbeitnehmer nach Absatz 2: der Kanton, in dem die steuerpflichtige Person am Ende der Steuerperiode oder der Steuerpflicht Wochenaufenthalt hatte.
 5 Der nach Absatz 4 zuständige Kanton hat Anspruch auf allfällige im Kalenderjahr an andere Kantone überwiesene Quellensteuerbeträge. Zu viel bezogene Steuern werden dem Arbeitnehmer zurückerstattet, zu wenig bezogene Steuern nachgefordert.
+1.5. Grundstückgewinnsteuer

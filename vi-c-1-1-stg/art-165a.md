@@ -3,3 +3,4 @@
 2 Die Beschwerde ist zu begründen. Es können alle Mängel des angefochtenen Entscheides und des vorangegangenen Verfahrens gerügt werden.
 3 …
 4 Die Steuerrekurskommission besteht aus fünf Mitgliedern, welche vom Landrat gewählt werden. Die Einzelheiten der Steuerrekurskommission regelt der Landrat in der Verordnung.
+1.8.5. Beschwerdeverfahren vor Verwaltungsgericht

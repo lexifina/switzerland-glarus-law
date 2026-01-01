@@ -7,3 +7,4 @@
 2 Die Nachsteuer wird für die letzten drei vor dem Todesjahr abgelaufenen Steuerperioden nach den Vorschriften über die ordentliche Veranlagung berechnet und samt Verzugszins nachgefordert.
 3 Die vereinfachte Nachbesteuerung ist ausgeschlossen, wenn die Erbschaft amtlich oder konkursamtlich liquidiert wird.
 4 Auch der Willensvollstrecker oder der Erbschaftsverwalter kann um eine vereinfachte Nachbesteuerung ersuchen.
+1.8.7. Inventar

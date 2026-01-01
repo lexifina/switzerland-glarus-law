@@ -2,3 +2,4 @@
 1 Wurden juristische Personen nach Artikel 73 und 74 des bisherigen Rechts besteuert, so werden die bei Ende dieser Besteuerung bestehenden stillen Reserven einschliesslich des selbst geschaffenen Mehrwerts, soweit diese bisher nicht steuerbar gewesen wären, im Falle ihrer Realisation innert den nächsten fünf Jahren gesondert besteuert. Die einfache Steuer beträgt in diesem Fall 1,5 Prozent.
 2 Die Höhe der von der juristischen Person geltend gemachten stillen Reserven einschliesslich des selbst geschaffenen Mehrwerts wird von der Veranlagungsbehörde mit Verfügung festgesetzt.
 3 Abschreibungen auf stillen Reserven einschliesslich des selbst geschaffenen Mehrwerts, die bei Ende der Besteuerung nach Artikel 73 und 74 des bisherigen Rechts aufgedeckt wurden, werden in die Berechnung der Entlastungsbegrenzung nach Artikel 63c einbezogen.
+5.2. Inkrafttreten

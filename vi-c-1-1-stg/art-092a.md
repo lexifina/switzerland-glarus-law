@@ -4,3 +4,4 @@
 3 Der Antrag muss bis am 31. März des auf das Steuerjahr folgenden Jahres eingereicht werden. Für Personen, welche die Schweiz verlassen, endet die Frist für die Einreichung des Antrags im Zeitpunkt der Abmeldung.
 4 Erfolgt keine nachträgliche ordentliche Veranlagung auf Antrag, so tritt die Quellensteuer an die Stelle der im ordentlichen Verfahren zu veranlagenden Steuern auf dem Erwerbseinkommen. Nachträglich werden keine zusätzlichen Abzüge gewährt.
 5 Artikel 92 Absätze 4 und 5 sind anwendbar.
+1.4.2. Natürliche Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz sowie juristische Personen ohne Sitz oder tatsächliche Verwaltung in der Schweiz
