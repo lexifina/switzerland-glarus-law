@@ -5,7 +5,7 @@
 ## 3. Wahlen und Abstimmungen an der Urne
 ### 3.1. Vorbereitung von Wahlen und Abstimmungen
 #### 3.1.1. Termine
-#### 3.1.2 Freiwilliges Anmeldeverfahren bei Wahlen im Mehrheitswahlverfahren
+#### 3.1.2 Anmeldeverfahren bei Wahlen im Mehrheitswahlverfahren
 #### 3.1.3. Wahlvorschläge und Listen bei Wahlen im Verhältniswahlverfahren
 #### 3.1.4. Einsatz des elektronischen Stimmkanals
 ### 3.2. Stimmabgabe
