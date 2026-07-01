@@ -3,4 +3,5 @@
 ## 3. Lastenausgleich
 ## 3a. Härteausgleich
 ## 4. Berechnungsgrundlagen und Auszahlung der Ausgleichsbeiträge
+## 4a. Berichterstattung
 ## 5. Übergangs- und Schlussbestimmungen
