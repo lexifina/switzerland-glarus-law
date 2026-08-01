@@ -2,6 +2,6 @@
 (Schulordnung BZGS, SOBZGS)
 Vom 30.05.2022
 Die Aufsichtskommission,
-gestützt auf Artikel 8 der Schulorganisationsverordnung und Artikel 3 Absatz 1 der Bildungsangebotsverordnung (BAV),
+gestützt auf Artikel 8 und 12 der Schulorganisationsverordnung sowie Artikel 2 der Bildungsangebotsverordnung (BAV),
 erlässt:
 1. Allgemeines
