@@ -1,9 +1,0 @@
-## 1. Allgemeines
-## 2. Konvente
-### 2.1. Allgemeines
-### 2.2. Gesamtkonvent
-### 2.3. Klassenkonvent
-## 3. Klassenlehrperson
-## 4. Fachschaften
-## 5. Mentorate
-## 6. Lehrervertretung
