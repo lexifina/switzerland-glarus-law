@@ -5,3 +5,4 @@ Der Regierungsrat,
 gestützt auf das Gesetz über die digitale Verwaltung (DVG) und das
 Verwaltungsrechtspflegegesetz (VRG),
 erlässt:
+1. Allgemeine Bestimmungen
