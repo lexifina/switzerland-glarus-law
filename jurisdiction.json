@@ -1,0 +1,11 @@
+{
+  "path": "ch-gl",
+  "code": "CH-GL",
+  "name": "Glarus",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-glarus-law",
+  "build": "built: constitution, cantonal laws and Verordnungen (319 acts, 950 versions) from the GS",
+  "language": "de",
+  "sources": 1
+}
