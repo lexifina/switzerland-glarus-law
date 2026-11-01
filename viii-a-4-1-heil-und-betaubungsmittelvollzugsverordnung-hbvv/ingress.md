@@ -4,3 +4,4 @@ Vom 27.08.2024
 Der Regierungsrat,
 gestützt auf Artikel 53 des Gesundheitsgesetzes (GesG),
 erlässt:
+1. Allgemeine Bestimmungen
