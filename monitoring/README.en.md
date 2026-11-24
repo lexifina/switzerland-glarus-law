@@ -6,7 +6,7 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Glarus only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-24 12:11 UTC, Glarus: systematic collection (gesetze.gl.ch): 279 addresses read; 132 added, 1 changed, 0 removed; the check failed; 139 not published, 0 of them with no reason.
+**Last check:** 2026-11-24 14:47 UTC, Glarus: systematic collection (gesetze.gl.ch): 178 addresses read; 129 added, 0 changed, 0 removed; the check failed; 132 not published, 0 of them with no reason.
 
 ## Sources
 
@@ -18,6 +18,7 @@ How global-law monitors every country: [global-law monitoring/](https://github.c
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-24 14:44](checks/2026-11.md#ch-lexwork-glarus-20261124t144444z) | lexwork-glarus | 178 | 129 | 0 | 0 | 132 (0) | the check failed | — |
 | [2026-11-24 12:06](checks/2026-11.md#ch-lexwork-glarus-20261124t120603z) | lexwork-glarus | 279 | 132 | 1 | 0 | 139 (0) | the check failed | — |
 
 ## Check it yourself

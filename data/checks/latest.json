@@ -1,36 +1,36 @@
 {
- "generated": "2026-11-24T12:11:07Z",
+ "generated": "2026-11-24T15:04:46Z",
  "latest": {
   "lexwork-glarus|switzerland/glarus/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": null,
    "census": {
     "checked": 46,
-    "current": 318,
+    "current": 319,
     "gone": 0,
     "held": 319,
     "not_at_source": 3,
     "out_of_scope": 38,
-    "pending": 133,
+    "pending": 129,
     "repo": 319,
-    "source_in_scope": 451
+    "source_in_scope": 448
    },
-   "check_id": "ch-lexwork-glarus-20261124T120603Z",
+   "check_id": "ch-lexwork-glarus-20261124T144444Z",
    "commits": null,
    "corpus": "switzerland/glarus/acts",
-   "error": "RuntimeError: the kit's append gate: error: append-only: refusing to replace existing tag i-a-2-1/1972-04-04",
-   "finished": "2026-11-24T12:11:05Z",
+   "error": "RuntimeError: the kit's append gate: error: published head 0274a856ba0aaa57a7065e3f0ab100d7391bef05 timestamp 1795522268 exceeds capped documentation time 1795518000; wait or use a later docs-date; never rewrite it",
+   "finished": "2026-11-24T14:47:55Z",
    "flags": [],
-   "gap": 139,
-   "note": "gesetze.gl.ch: index of 489 acts (489 in force); held 319; 132 in force and in scope not held yet, 38 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 46 held acts compared with the collection this check (every one within 7 days); 132 candidate acts read",
+   "gap": 132,
+   "note": "gesetze.gl.ch: index of 489 acts (489 in force); held 319; 129 in force and in scope not held yet, 38 out of scope (land-use plans, concessions, directives, forms: as the builder), 3 published only as PDF; 46 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "failed",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 279,
-   "runner": "lawwatch switzerland (5f59fe7c67)",
+   "requests": 178,
+   "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [
@@ -38,7 +38,6 @@
      "II B/1/1",
      "II B/1/2",
      "II D/2/1",
-     "II G/1/1",
      "II G/1/1/1",
      "II G/1/2",
      "II G/1/2/1",
@@ -65,7 +64,6 @@
      "IV A/22/1",
      "IV B/1/7",
      "IV B/1/8",
-     "IV B/1/12/1",
      "IV B/1/12/2",
      "IV B/4/5/1",
      "IV B/7/2",
@@ -107,7 +105,6 @@
      "V D/1/3",
      "V D/1/6",
      "VI C/1/5/1",
-     "VI C/1/5/2",
      "VI D/2",
      "VI D/4",
      "VI E/1/1",
@@ -167,24 +164,22 @@
      "VIII D/21/8",
      "VIII E/21/8"
     ],
-    "changed": [
-     "I C/21/3"
-    ],
+    "changed": [],
     "removed": []
    },
    "snapshot": "489 entries, 489 in force (gesetze.gl.ch)",
    "source": "lexwork-glarus",
-   "started": "2026-11-24T12:06:03Z",
+   "started": "2026-11-24T14:44:44Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
     "letters_check_dropped": {},
     "new": 129,
-    "nothing_new": 1,
+    "nothing_new": 0,
     "parts": [
      "95-watch-20261124-000-new.json"
     ],
-    "pdf_only": 3,
+    "pdf_only": 0,
     "re_read": 0,
     "unreadable": 0
    },
