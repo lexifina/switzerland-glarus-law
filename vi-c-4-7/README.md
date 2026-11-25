@@ -1,6 +1,6 @@
 # Verordnung über die Gebühren der Arbeitsmarktbehörde
 
-GS VI C/4/7 · 4 versions, from 2011-11-01 (latest in force: 2015-07-01) · <https://gesetze.gl.ch/app/de/texts_of_law/VI-C.4.7>
+GS VI C/4/7 · 4 versions, from 2011-11-01 (latest in force: 2026-11-01) · <https://gesetze.gl.ch/app/de/texts_of_law/VI-C.4.7>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

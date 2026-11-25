@@ -1,6 +1,6 @@
 # Verordnung über den Vollzug der eidgenössischen Heil- und Betäubungsmittelgesetzgebung
 
-Heil- und Betäubungsmittelvollzugsverordnung, HBVV · 5 versions, from 2009-05-01 (latest in force: 2024-10-01) · <https://gesetze.gl.ch/app/de/texts_of_law/VIII-A.4.1>
+Heil- und Betäubungsmittelvollzugsverordnung, HBVV · 5 versions, from 2009-05-01 (latest in force: 2026-11-01) · <https://gesetze.gl.ch/app/de/texts_of_law/VIII-A.4.1>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -19,5 +19,5 @@ Heil- und Betäubungsmittelvollzugsverordnung, HBVV · 5 versions, from 2009-05-
 | Art. 13 | [art-013.md](art-013.md) | 2 | 2026-11-01 |
 | Art. 14 | [art-014.md](art-014.md) | 2 | 2026-11-01 |
 | Art. 15 | [art-015.md](art-015.md) | 2 | 2026-11-01 |
-| Gliederung | [gliederung.md](gliederung.md) | 2 | 2026-11-01 |
+| Art. 16 | [art-016.md](art-016.md) | 2 | 2026-11-01 |
 | Titel und Ingress | [ingress.md](ingress.md) | 3 | 2026-11-01 |

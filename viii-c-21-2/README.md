@@ -1,6 +1,6 @@
 # Verordnung über die Gebühren des kantonalen Arbeitsinspektorats
 
-GS VIII C/21/2 · 3 versions, from 2003-04-01 (latest in force: 2014-09-01) · <https://gesetze.gl.ch/app/de/texts_of_law/VIII-C.21.2>
+GS VIII C/21/2 · 3 versions, from 2003-04-01 (latest in force: 2026-11-01) · <https://gesetze.gl.ch/app/de/texts_of_law/VIII-C.21.2>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

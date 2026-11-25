@@ -1,6 +1,6 @@
 # How this repository was made (Glarus)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-25, the day the source data was retrieved.
 
 ## Sources
 
@@ -333,20 +333,151 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `viii-e-25-4` | Verordnung über den Dr.-Emilia-Mercier-Fonds für Gehörlose | 2 | 2006-05-07 to 2014-09-01 |
 | `viii-e-25-5` | Verordnung über die Beiträge aus dem Fonds für psychisch Kranke | 2 | 2011-08-09 to 2014-09-01 |
 | `viii-e-25-6` | Sozialfondsverordnung | 1 | 2014-01-01 to 2014-01-01 |
+| `i-a-2-1` | Beschluss über die Landesfarben und das Landeswappen | 2 | 1972-04-04 to 2014-09-01 |
+| `ii-b-1-1` | Beschluss über den Beitritt zur Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich | 1 | 2006-05-07 to 2006-05-07 |
+| `ii-b-1-2-rahmenvereinbarung-irv` | Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich | 1 | 2007-05-11 to 2007-05-11 |
+| `ii-d-2-1` | Stiftungsurkunde für die Glarner Pensionskasse | 2 | 2010-05-05 to 2015-01-01 |
+| `ii-g-1-1-1` | Beitritt zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen vom 15. November 2019 | 1 | 2023-05-07 to 2023-05-07 |
+| `ii-g-1-2` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen vom 25. November 1994 | 1 | 2010-07-01 to 2010-07-01 |
+| `ii-g-1-2-1-ivob` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen vom 15. November 2019 | 1 | 2024-03-01 to 2024-03-01 |
+| `ii-g-1-3` | Beschluss über den Beitritt des Kantons Glarus zur Interkantonalen Vereinbarung zum Abbau technischer Handelshemmnisse | 1 | 2000-05-07 to 2000-05-07 |
+| `ii-g-1-4` | Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse (IVTH) | 1 | 2003-02-04 to 2003-02-04 |
+| `ii-g-2-1-eg-ivob` | Einführungsgesetz zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen | 2 | 2009-07-01 to 2024-03-01 |
+| `iii-a-6` | Zeugentarif des Kantons Glarus | 1 | 1992-03-01 to 1992-03-01 |
+| `iii-b-1-3` | Beschluss betreffend die Aufbewahrung und Verwaltung der Sparhefte bevormundeter Personen | 1 | 1915-05-19 to 1915-05-19 |
+| `iii-b-4-2-ivbsa` | Interkantonale Vereinbarung über die BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St. Gallen, Graubünden, Thurgau und Tessin | 2 | 2008-01-01 to 2026-01-01 |
+| `iii-b-4-2-2` | Verfahrensrechtliche Bestimmungen der Ostschweizer BVG- und Stiftungsaufsicht | 2 | 2011-01-01 to 2015-11-17 |
+| `iii-c-1-eg-zpo` | Einführungsgesetz zur Schweizerischen Zivilprozessordnung | 3 | 2011-01-01 to 2022-07-01 |
+| `iii-f-1-eg-stpo` | Einführungsgesetz zur Schweizerischen Strafprozessordnung und zur Schweizerischen Jugendstrafprozessordnung | 6 | 2013-01-01 to 2023-01-01 |
+| `iii-f-4` | Beschluss über den Beitritt zum Konkordat vom 29. Oktober 2004 der ostschweizerischen Kantone über den Vollzug von Strafen und Massnahmen | 1 | 2006-12-19 to 2006-12-19 |
+| `iii-f-4-1` | Konkordat der ostschweizerischen Kantone über den Vollzug von Strafen und Massnahmen | 1 | 2007-01-01 to 2007-01-01 |
+| `iii-g-3` | Beschluss über die Inkraftsetzung des Verwaltungsrechtspflegegesetzes und der damit zusammenhängenden Anpassungen der Kantonsverfassung und von Gesetzen | 1 | 1987-10-01 to 1987-10-01 |
+| `iii-h-1` | Beschluss betreffend Ausrichtung von Beiträgen an unentgeltliche Rechtsauskunftsstellen | 1 | 1971-05-02 to 1971-05-02 |
+| `iii-i-4` | Geschäftsordnung der Anwaltskommission | 1 | 2003-09-04 to 2003-09-04 |
+| `iii-i-5` | Tarif für die Entschädigung der öffentlichen Verteidigung und der unentgeltlichen Rechtsvertretung | 1 | 2008-01-01 to 2008-01-01 |
+| `iv-a-1-3` | Genehmigung der Verfassung der Evangelisch-Reformierten Landeskirche | 1 | 1990-06-27 to 1990-06-27 |
+| `iv-a-1-4` | Verfassung der Evangelisch-Reformierten Landeskirche des Kantons Glarus | 1 | 1991-01-01 to 1991-01-01 |
+| `iv-a-1-5` | Genehmigung der Verfassung der römisch-katholischen Landeskirche | 1 | 1990-06-27 to 1990-06-27 |
+| `iv-a-1-6` | Verfassung des Verbandes der römisch-katholischen Kirchgemeinden des Kantons Glarus (römisch-katholische Landeskirche) | 2 | 2003-01-01 to 2026-01-01 |
+| `iv-a-21-1` | Kirchenordnung für die Evangelisch-Reformierte Landeskirche des Kantons Glarus | 13 | 2010-11-18 to 2025-04-01 |
+| `iv-a-22-1-berufseinfuhrungsvereinbarung-bev` | Vereinbarung zwischen der Diözese Chur und den staatskirchenrechtlichen Organisationen der Bistumskantone Uri, Schwyz, Ob- und Nidwalden, Glarus und Graubünden über die Berufseinführung im Bistum Chur | 1 | 2025-07-01 to 2025-07-01 |
+| `iv-b-1-7` | Interkantonale Vereinbarung über die Zusammenarbeit im Bereich der Sonderpädagogik | 1 | 2012-08-14 to 2012-08-14 |
+| `iv-b-1-8` | Beitritt des Kantons Glarus zum Konkordat über die Schulkoordination | 1 | 1971-04-28 to 1971-04-28 |
+| `iv-b-1-12-2` | Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen | 7 | 2008-01-01 to 2025-07-01 |
+| `iv-b-4-5-1-maturitatsanerkennungsreglement-mar` | Reglement der EDK über die Anerkennung von gymnasialen Maturitätszeugnissen | 2 | 1995-08-01 to 2024-08-01 |
+| `iv-b-7-2-interkantonale-universitatsvereinbarung-iuv` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen | 2 | 1999-01-01 to 2022-01-01 |
+| `iv-b-7-3-hochschulkonkordat` | Interkantonale Vereinbarung über den schweizerischen Hochschulbereich | 1 | 2015-01-01 to 2015-01-01 |
+| `iv-b-33-1-harmos-konkordat` | Interkantonale Vereinbarung über die Harmonisierung der obligatorischen Schule | 1 | 2009-08-01 to 2009-08-01 |
+| `iv-b-51-4-schulordnung-gibgl-sogibgl` | Schulordnung der Gewerblich-industriellen Berufsfachschule in Ziegelbrücke | 4 | 2008-11-01 to 2026-08-01 |
+| `iv-b-51-5-schulordnung-kbs-glarus` | Schulordnung der Kaufmännischen Berufsfachschule Glarus | 2 | 2008-11-01 to 2013-08-01 |
+| `iv-b-51-9-schulordnung-bzgs-sobzgs` | Schulordnung Bildungszentrum Gesundheit und Soziales | 2 | 2022-08-01 to 2026-08-01 |
+| `iv-b-71-1-fhv` | Interkantonale Fachhochschulvereinbarung | 1 | 2005-08-01 to 2005-08-01 |
+| `iv-b-71-2` | Vereinbarung über die «Ost – Ostschweizer Fachhochschule» | 1 | 2020-01-01 to 2020-01-01 |
+| `iv-c-2-3` | Berufsauftrag für die Lehrpersonen der Volksschule | 2 | 2011-08-01 to 2026-08-01 |
+| `iv-c-2-5` | Berufsauftrag für die Lehrpersonen ab der Sekundarstufe II und des Brückenangebotes | 2 | 2013-08-01 to 2026-08-01 |
+| `iv-e-3` | Joh. Rudolf Marty-Stiftung | 1 | 1807-12-07 to 1807-12-07 |
+| `iv-e-10` | Interkantonale Vereinbarung zur Harmonisierung von Ausbildungsbeiträgen | 1 | 2013-03-01 to 2013-03-01 |
+| `iv-g-1-2` | Kantonale Natur- und Heimatschutzverordnung | 3 | 2011-01-01 to 2014-12-03 |
+| `iv-g-5-1` | Beschluss über den Schutz der Torfstichseen und ihrer Umgebung | 1 | 2006-05-07 to 2006-05-07 |
+| `iv-g-5-2` | Beschluss über den Schutz der Seeuferlandschaft «Hüttenböschen» und «Seeflechsen», Gemeinde Mollis | 1 | 2008-04-16 to 2008-04-16 |
+| `iv-g-5-3-schutzbeschluss-feldbach` | Beschluss über den Schutz des Amphibienlaichgebietes «Feldbach» Mollis | 2 | 2006-05-07 to 2021-03-01 |
+| `iv-g-5-4` | Beschluss über den Schutz des Auenobjektes «Hinter Klöntal» | 1 | 2006-05-07 to 2006-05-07 |
+| `iv-g-5-5` | Beschluss über den Schutz der «Lochsite», Gemeinde Sool | 1 | 2006-05-07 to 2006-05-07 |
+| `iv-g-5-6` | Beschluss über den Schutz des Äschensees in Elm | 1 | 2006-05-07 to 2006-05-07 |
+| `iv-g-5-8` | Beschluss über den Schutz des Rieterwaldes, Mollis | 1 | 2012-08-14 to 2012-08-14 |
+| `iv-g-5-9-schutzbeschluss-landig` | Beschluss über den Schutz der Landig am Linthkanal | 1 | 2023-01-01 to 2023-01-01 |
+| `iv-g-5-10-schutzbeschluss-chli-gasitschachen` | Beschluss über den Schutz des Chli Gäsitschachens | 1 | 2025-06-01 to 2025-06-01 |
+| `ix-a-2` | Beschluss über Massnahmen zur wirtschaftlichen Förderung des Kantons Glarus | 1 | 1973-05-06 to 1973-05-06 |
+| `ix-b-22-8` | Gebührentarif für Geldspiel- und Unterhaltungsautomaten sowie Spielsalons | 2 | 2012-01-01 to 2018-01-01 |
+| `ix-b-24-3-gsk` | Gesamtschweizerisches Geldspielkonkordat | 2 | 2006-05-07 to 2021-01-01 |
+| `ix-b-24-4-ikv-2020` | Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen | 2 | 2006-07-01 to 2021-01-01 |
+| `ix-d-7-1` | Normalarbeitsvertrag Landwirtschaft | 2 | 2011-01-01 to 2014-09-01 |
+| `ix-d-631-4` | Interkantonale Vereinbarung zur Aufhebung des Viehhandelskonkordats (Interkantonale Übereinkunft über den Viehhandel vom 13. September 1943) | 1 | 2016-03-01 to 2016-03-01 |
+| `ix-e-2-1` | Beschluss über den Beitritt zur Vereinbarung über den Ausbau und Betrieb der Interkantonalen Försterschule Maienfeld (IFM) und über die Gewährung eines Baukredites von 175 500 Franken | 1 | 1993-01-01 to 1993-01-01 |
+| `ix-e-2-3` | Dienstinstruktion für die Revierförster | 3 | 2011-01-01 to 2025-02-01 |
+| `v-a-12-1` | Interkantonale Vereinbarung über die polizeiliche Zusammenarbeit | 1 | 1977-05-01 to 1977-05-01 |
+| `v-a-12-1-2` | Beschluss über den Beitritt des Kantons Glarus zur Interkantonalen Vereinbarung über die polizeiliche Zusammenarbeit | 1 | 1977-05-01 to 1977-05-01 |
+| `v-a-12-2` | Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen | 2 | 2010-01-01 to 2015-05-03 |
+| `v-a-12-2-1` | Beitritt zum Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen | 1 | 2009-05-03 to 2009-05-03 |
+| `v-a-12-3-viclas-konkordat` | Interkantonale Vereinbarung über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten | 1 | 2011-07-01 to 2011-07-01 |
+| `v-a-12-3-1` | Beitritt zur Interkantonalen Vereinbarung über die computergestützte Zusammenarbeit der Kantone bei der Aufklärung von Gewaltdelikten | 1 | 2011-07-01 to 2011-07-01 |
+| `v-d-1-3` | Prämientarif für die Versicherung im Monopol | 2 | 2011-02-15 to 2020-01-01 |
+| `v-d-1-6` | Beschluss über den Beitritt der Kantonalen Sachversicherung zum Schweizerischen Pool für Erdbebenversicherung | 1 | 1978-12-20 to 1978-12-20 |
+| `vi-c-1-5-1` | Beschluss über Höhe und Verfahren der Bezugsprovision bei der Quellensteuer | 3 | 2004-07-01 to 2025-01-01 |
+| `vi-d-2` | Übersicht über die Gegenrechtsvereinbarungen über die Befreiung von der Erbschafts- und Schenkungssteuer | 1 | 1991-03-19 to 1991-03-19 |
+| `vi-d-4` | Konkordat zwischen den Kantonen der Schweizerischen Eidgenossenschaft über den Ausschluss von Steuerabkommen | 1 | 1949-10-06 to 1949-10-06 |
+| `vi-e-1-1` | Beschluss über den Beitritt des Kantons Glarus zur Interkantonalen Vereinbarung vom 22. November 1973 über den Salzverkauf in der Schweiz | 1 | 1974-05-12 to 1974-05-12 |
+| `vi-e-1-2` | Interkantonale Vereinbarung über den Salzverkauf in der Schweiz | 1 | 1975-10-01 to 1975-10-01 |
+| `vi-e-22-1` | Beschluss über den Schutz von Vögeln | 1 | 1980-07-01 to 1980-07-01 |
+| `vi-e-22-3` | Bannbezirksgrenzen | 2 | 1971-06-30 to 2023-08-01 |
+| `vi-e-22-4` | Beschluss über die Schaffung von Schongebieten für Feldhasen | 3 | 1998-05-01 to 2023-08-01 |
+| `vi-e-22-5` | Beschluss über Schongebiete für Murmeltiere | 2 | 1980-07-01 to 2023-08-01 |
+| `vi-e-22-6` | Beschluss über die Bannung des Gebietes Bergli–Bitziberg in der Gemeinde Glarus gegen jegliche Jagd | 1 | 1980-07-01 to 1980-07-01 |
+| `vi-e-331-1` | Übereinkunft zwischen den Kantonen Zürich, Schwyz, Glarus und St. Gallen über die Fischerei im Zürichsee, Linthkanal und Walensee | 1 | 2008-01-01 to 2008-01-01 |
+| `vi-e-331-3` | Ausführungsbestimmungen über die Fischerei im Linthkanal | 3 | 2011-01-01 to 2025-01-01 |
+| `vi-e-331-4` | Ausführungsbestimmungen über die Fischerei im Walensee | 1 | 2011-01-01 to 2011-01-01 |
+| `vi-e-331-5` | Interkantonale Vereinbarung zwischen den Kantonen Uri und Glarus über die Ausübung der Fischerei im Staubecken des Fätschbachwerks auf dem Urnerboden | 1 | 2006-01-01 to 2006-01-01 |
+| `vi-e-332-1` | Vereinbarung zwischen der Regierung des Kantons Glarus und den Kraftwerken Sernf-Niederenbach AG Schwanden (SN) über die Fischerei im Stausee in der Garichte und im Regulierweiher in der Höfliegg in Engi | 1 | 1946-01-01 to 1946-01-01 |
+| `vi-f-1` | Beschluss betreffend Beteiligung des Kantons Glarus bei der Schweizerischen Nationalbank | 1 | 1906-02-20 to 1906-02-20 |
+| `vii-b-2-3` | Beschluss über die Gewährung eines Kredites von 92 Mio. Franken für die Gesamtsanierung des Kantonsspitals | 1 | 1998-01-01 to 1998-01-01 |
+| `vii-b-2-4` | Beschluss über die Gewährung eines Kantonsbeitrages von 13,5 Millionen Franken zur Gesamterneuerung des Sportzentrums Glarner Unterland (SGU) | 1 | 2001-05-06 to 2001-05-06 |
+| `vii-b-2-5` | Beschluss über die Gewährung eines Kredites von 14,77 Millionen Franken für den Neubau der Mensa und für die Sanierung des Hauptgebäudes der Kantonalen Gewerblichen Berufsschule Ziegelbrücke | 1 | 2003-05-04 to 2003-05-04 |
+| `vii-b-2-9` | Beschluss über die Erteilung eines Kredites von 9'415'000 Franken an die Braunwald-Standseilbahn AG für Erneuerungsarbeiten | 1 | 1995-05-07 to 1995-05-07 |
+| `vii-b-55-1` | Beschluss über die Genehmigung der Interkantonalen Vereinbarung zwischen den Kantonen Glarus, Schwyz, St. Gallen und Zürich über das Linthwerk | 1 | 2002-05-05 to 2002-05-05 |
+| `vii-b-55-2` | Interkantonale Vereinbarung zwischen den Kantonen Glarus, Schwyz, St. Gallen und Zürich über das Linthwerk | 1 | 2004-01-01 to 2004-01-01 |
+| `vii-b-55-3` | Organisationsreglement zum Linthkonkordat | 2 | 2004-01-01 to 2016-05-27 |
+| `vii-b-55-4` | Verordnung über den Schutz und die Nutzung der Anlagen des Linthwerkes | 3 | 2004-01-01 to 2022-06-01 |
+| `vii-b-55-5` | Verordnung über die Benutzung der Strassen des Linthwerkes | 2 | 2004-01-01 to 2016-05-27 |
+| `vii-b-531-1` | Beschluss über Verwertung von Wasserkräften im Kanton Glarus | 2 | 2009-01-01 to 2014-09-01 |
+| `vii-b-531-2` | Beschluss betreffend die Wasserkraft des Löntsch | 1 | 1906-05-06 to 1906-05-06 |
+| `vii-b-531-3` | Beschluss betreffend die Beteiligung des Kantons Glarus beim Erwerb der Kraftwerke Beznau-Löntsch | 1 | 1929-08-14 to 1929-08-14 |
+| `vii-b-531-4` | Beschluss betreffend die Beteiligung des Landes an der Kraftwerke Linth-Limmern AG | 1 | 1957-05-05 to 1957-05-05 |
+| `vii-c-11-2` | Strassenverzeichnis Kantonsstrassen | 2 | 1972-01-01 to 2019-06-15 |
+| `vii-c-11-4` | Beschluss über die den Ortsgemeinden zustehenden Anteile an die Unterhaltskosten der Gemeindestrassen | 1 | 1974-01-01 to 1974-01-01 |
+| `vii-c-11-5` | Mehrjahres-Strassenbauprogramm; Gewährung von Krediten für die Jahre 2010 bis 2019 | 1 | 2010-05-02 to 2010-05-02 |
+| `vii-d-41-1` | Interkantonale Vereinbarung über die Schifffahrt auf dem Zürichsee und dem Walensee | 1 | 1980-06-01 to 1980-06-01 |
+| `vii-d-41-2` | Beschluss über den Beitritt des Kantons Glarus zur Interkantonalen Vereinbarung über die Schifffahrt auf dem Zürichsee und dem Walensee | 1 | 1980-05-13 to 1980-05-13 |
+| `vii-e-2` | Interkantonale Vereinbarung über den Vollzug der privaten Kontrolle im Energiebereich | 1 | 2006-07-01 to 2006-07-01 |
+| `vii-e-2-1` | Zusatzvereinbarung zur Interkantonalen Vereinbarung über den Vollzug der Privaten Kontrolle im Energiebereich | 1 | 2013-01-01 to 2013-01-01 |
+| `viii-a-1-4-ivhsm` | Interkantonale Vereinbarung über die hochspezialisierte Medizin | 1 | 2009-01-01 to 2009-01-01 |
+| `viii-a-1-6-pbv` | Pflege- und Betreuungsverordnung | 4 | 2023-01-01 to 2026-01-01 |
+| `viii-a-3-2` | Beitritt zur Interkantonalen Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen | 1 | 2016-05-01 to 2016-05-01 |
+| `viii-a-3-3-weiterbildungsfinanzierungsvereinbarung-wfv` | Interkantonale Vereinbarung über die kantonalen Beiträge an die Spitäler zur Finanzierung der ärztlichen Weiterbildung und deren Ausgleich unter den Kantonen | 1 | 2022-01-01 to 2022-01-01 |
+| `viii-a-3-6-nareg-vo` | Verordnung der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren zum Register über die Gesundheitsfachpersonen NAREG | 2 | 2017-01-01 to 2022-02-01 |
+| `viii-a-3-7` | Gebührenverordnung der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren | 2 | 2017-01-01 to 2023-02-01 |
+| `viii-a-3-8` | Reglement der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren für die interkantonale Prüfung von Osteopathinnen und Osteopathen in der Schweiz | 1 | 2007-01-01 to 2007-01-01 |
+| `viii-a-3-9` | Reglement der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren über die Gebühren für die interkantonale Prüfung der Osteopathinnen und Osteopathen | 1 | 2008-02-14 to 2008-02-14 |
+| `viii-a-3-10-verordnung-ausland-gdk-vo-ausland-gdk` | Verordnung der Schweizerischen Konferenz der kantonalen Gesundheitsdirektorinnen und -direktoren über die Anerkennung und Nachprüfung von ausländischen Berufsqualifikationen in Osteopathie | 1 | 2012-11-22 to 2012-11-22 |
+| `viii-a-22-2` | Beschluss über die Gewährung von Beiträgen an die bauliche Sanierung der Höhenklinik Braunwald | 1 | 1985-05-05 to 1985-05-05 |
+| `viii-b-3-1` | Interkantonale Vereinbarung über den Zweckverband für die Kehrichtbeseitigung im Linthgebiet | 1 | 1994-09-06 to 1994-09-06 |
+| `viii-b-3-2` | Statuten des Zweckverbandes für die Kehrichtverwertung im Linthgebiet | 3 | 1995-09-26 to 2026-01-01 |
+| `viii-b-3-3-zag` | Statuten des Zweckverbandes Abfallentsorgung Glarnerland | 2 | 2011-01-01 to 2022-01-01 |
+| `viii-b-4-2` | Interkantonale Vereinbarung über den Vollzug der Privaten Kontrolle im Bereich Schalldämmung von Gebäuden | 1 | 2020-07-01 to 2020-07-01 |
+| `viii-b-21-5-1-gewasserrenaturierungsfonds-beitragsverordnung-grfbv` | Verordnung über die Beiträge aus dem Gewässerrenaturierungsfonds | 1 | 2020-12-01 to 2020-12-01 |
+| `viii-b-22-1-1` | Vereinbarung über Bau und Betrieb der gemeinsamen zentralen Abwasserreinigungsanlage in Bilten | 1 | 1977-07-19 to 1977-07-19 |
+| `viii-b-22-1-2` | Statuten Abwasserverband Glarnerland | 4 | 2013-01-01 to 2022-01-01 |
+| `viii-b-22-4-1` | Vereinbarung über den Abwasserverband Mühlehorn-Obstalden-Murg | 1 | 1980-12-02 to 1980-12-02 |
+| `viii-b-41-1` | Beschluss über die Realisierung von Lärmschutzmassnahmen an Kantonsstrassen; Gewährung von Krediten für die Jahre 1999–2004 | 1 | 1999-05-02 to 1999-05-02 |
+| `viii-c-12-3-nav-hw` | Kantonaler Normalarbeitsvertrag Hauswirtschaft | 3 | 2011-01-01 to 2024-01-01 |
+| `viii-d-21-7` | Ostschweizer Spitalvereinbarung | 1 | 2012-01-01 to 2012-01-01 |
+| `viii-d-21-8` | Ergänzungsvereinbarung zur Ostschweizer Spitalvereinbarung | 2 | 2019-01-01 to 2022-01-01 |
+| `viii-e-21-8-ivse` | Interkantonale Vereinbarung für soziale Einrichtungen | 2 | 2008-01-01 to 2020-06-01 |
 
-The build made 766 commits:
+The build made 976 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 319 | first version of an act |
-| 447 | one law on its in-force day |
+| 160 | baseline texts where the record starts |
+| 816 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 0 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 15 commits on the branch `zukunft`: laws not yet in force on 2026-10-30.
-- 2 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1192 laws in the record.
-- 1549 tags.
+- 15 commits on the branch `zukunft`: laws not yet in force on 2026-11-25.
+- 10 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 1405 laws in the record.
+- 1915 tags.
 
 ## Dates
 
@@ -358,13 +489,13 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `1242478d3e42542082e7e1516f2130020c6d736d0b54b55e836d860796bea486` (8128300 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.14.4; git version 2.53.0.
+- Corpus: sha256 `a44c50d3116c45a5c00696de1aee2e4919b21b64fb44e560836b235dc3bce313` (10097667 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
+- Python 3.14.0; git version 2.52.0.windows.1.
 
 ## Checks
 
-950 versions of 319 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -378,7 +509,7 @@ No second build of this corpus has been compared yet.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 
