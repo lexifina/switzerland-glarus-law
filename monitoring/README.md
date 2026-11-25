@@ -6,18 +6,19 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Glarus: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-24 14:47 UTC, Glarus: Systematische Sammlung (gesetze.gl.ch): 178 Adressen gelesen; 129 hinzugefügt, 0 geändert, 0 entfernt; die Prüfung ist fehlgeschlagen; 132 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-25 06:54 UTC, Glarus: Systematische Sammlung (gesetze.gl.ch): 255 Adressen gelesen; 129 hinzugefügt, 0 geändert, 0 entfernt; Änderungen gefunden; 5 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Glarus: Systematische Sammlung (gesetze.gl.ch)](https://gesetze.gl.ch/) | `<act>/` | täglich | — | die Prüfung ist fehlgeschlagen | beobachtet |
+| [Glarus: Systematische Sammlung (gesetze.gl.ch)](https://gesetze.gl.ch/) | `<act>/` | täglich | 2026-11-25 06:54 UTC | Änderungen gefunden | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-25 06:45](checks/2026-11.md#ch-lexwork-glarus-20261125t064513z) | lexwork-glarus | 255 | 129 | 0 | 0 | 5 (0) | Änderungen gefunden | [211](https://github.com/lexifina/switzerland-glarus-law/compare/0c2e59621dab...82f3b815ba98) |
 | [2026-11-24 14:44](checks/2026-11.md#ch-lexwork-glarus-20261124t144444z) | lexwork-glarus | 178 | 129 | 0 | 0 | 132 (0) | die Prüfung ist fehlgeschlagen | — |
 | [2026-11-24 12:06](checks/2026-11.md#ch-lexwork-glarus-20261124t120603z) | lexwork-glarus | 279 | 132 | 1 | 0 | 139 (0) | die Prüfung ist fehlgeschlagen | — |
 

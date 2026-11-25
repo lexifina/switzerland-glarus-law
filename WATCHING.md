@@ -8,6 +8,6 @@ Wie global-law die Quellen jedes Landes beobachtet: [global-law WATCHING.md](htt
 
 | Quelle | Was gelesen wird | Ordner | Wie oft | Zuletzt gelesen | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Glarus: Systematische Sammlung (gesetze.gl.ch)](https://gesetze.gl.ch/) | jeden Tag das Verzeichnis der geltenden Erlasse, das Dokument (alle konsolidierten Fassungen, Änderungstabelle) neuer Erlasse und eines Siebtels der gehaltenen Erlasse, Fassungen einmal | `<act>/` | täglich | 2026-11-24 14:44 UTC | beobachtet |
+| [Glarus: Systematische Sammlung (gesetze.gl.ch)](https://gesetze.gl.ch/) | jeden Tag das Verzeichnis der geltenden Erlasse, das Dokument (alle konsolidierten Fassungen, Änderungstabelle) neuer Erlasse und eines Siebtels der gehaltenen Erlasse, Fassungen einmal | `<act>/` | täglich | 2026-11-25 06:45 UTC | beobachtet |
 
 Die Quellen werden im Rahmen ihrer robots.txt und Nutzungsbedingungen gelesen, mit Pausen zwischen den Anfragen.
