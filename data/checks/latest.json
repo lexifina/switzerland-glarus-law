@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:18:25Z",
+ "generated": "2026-11-27T07:12:35Z",
  "latest": {
   "lexwork-glarus|switzerland/glarus/acts": {
    "attempt": 1,
@@ -14,46 +14,48 @@
    },
    "census": {
     "checked": 64,
-    "current": 448,
+    "current": 447,
     "gone": 0,
     "held": 448,
     "not_at_source": 3,
     "out_of_scope": 38,
-    "pending": 0,
+    "pending": 1,
     "repo": 448,
     "source_in_scope": 448
    },
-   "check_id": "ch-lexwork-glarus-20261126T062118Z",
+   "check_id": "ch-lexwork-glarus-20261127T061448Z",
    "commits": null,
    "corpus": "switzerland/glarus/acts",
    "error": null,
-   "finished": "2026-11-26T06:22:52Z",
+   "finished": "2026-11-27T06:18:07Z",
    "flags": [],
-   "gap": 5,
+   "gap": 7,
    "note": "gesetze.gl.ch: index of 489 acts (489 in force); held 448; 0 in force and in scope not held yet, 38 out of scope (land-use plans, concessions, directives, forms: as the builder), 3 published only as PDF; 64 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
-   "outcome": "no-change",
+   "outcome": "changed",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 79,
+   "requests": 188,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
-    "changed": [],
+    "changed": [
+     "IX E/1/1"
+    ],
     "removed": []
    },
    "snapshot": "489 entries, 489 in force (gesetze.gl.ch)",
    "source": "lexwork-glarus",
-   "started": "2026-11-26T06:21:18Z",
+   "started": "2026-11-27T06:14:48Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
     "letters_check_dropped": {},
     "new": 0,
-    "nothing_new": 0,
+    "nothing_new": 1,
     "parts": [],
     "pdf_only": 0,
     "re_read": 0,
@@ -68,7 +70,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 64,
-    "versions_checked": 134,
+    "versions_checked": 170,
     "versions_differ": 0
    }
   }
