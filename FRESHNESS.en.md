@@ -8,9 +8,9 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Glarus: systematic collection (gesetze.gl.ch) · `switzerland/glarus/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-27 06:18 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-28 06:11 UTC**.
 - Acts held here: 448; current at the source: 447; changed at the source since the version held here: 1; no longer at the source: 0.
 - Compared with the source in this read: 64 of the 448 acts held here; the others were not compared in this read (see the check's note).
-- Not published: 7 (held here, no longer at the source: 3, changed at the source since the version held here: 1, in force later: 3); with no reason: 0.
+- Not published: 8 (held here, no longer at the source: 3, changed at the source since the version held here: 1, in force later: 4); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).

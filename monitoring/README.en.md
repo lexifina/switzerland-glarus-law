@@ -6,18 +6,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Glarus only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-27 06:18 UTC, Glarus: systematic collection (gesetze.gl.ch): 188 addresses read; 0 added, 1 changed, 0 removed; changes found; 7 not published, 0 of them with no reason.
+**Last check:** 2026-11-28 06:11 UTC, Glarus: systematic collection (gesetze.gl.ch): 137 addresses read; 0 added, 1 changed, 0 removed; changes found; 8 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Glarus: systematic collection (gesetze.gl.ch)](https://gesetze.gl.ch/) | `<act>/` | daily | 2026-11-27 06:18 UTC | changes found | watched |
+| [Glarus: systematic collection (gesetze.gl.ch)](https://gesetze.gl.ch/) | `<act>/` | daily | 2026-11-28 06:11 UTC | changes found | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 06:08](checks/2026-11.md#ch-lexwork-glarus-20261128t060853z) | lexwork-glarus | 137 | 0 | 1 | 0 | 8 (0) | changes found | — |
 | [2026-11-27 06:14](checks/2026-11.md#ch-lexwork-glarus-20261127t061448z) | lexwork-glarus | 188 | 0 | 1 | 0 | 7 (0) | changes found | — |
 | [2026-11-26 06:21](checks/2026-11.md#ch-lexwork-glarus-20261126t062118z) | lexwork-glarus | 79 | 0 | 0 | 0 | 5 (0) | no change | — |
 | [2026-11-25 06:45](checks/2026-11.md#ch-lexwork-glarus-20261125t064513z) | lexwork-glarus | 255 | 129 | 0 | 0 | 5 (0) | changes found | [211](https://github.com/lexifina/switzerland-glarus-law/compare/0c2e59621dab...82f3b815ba98) |
